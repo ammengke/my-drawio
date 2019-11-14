@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-14T08:15:04.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="jr2l4AJNzoSXOxRuAHDa" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-14T08:21:31.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="jyTpdeQEr8blbPaLlTw4" version="12.2.6" type="github" pages="1">
   <diagram id="bGpI3JKIUPhiKCbYNTpG" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="z22MFKtNenLAoitEVp-j-75" value="gffund_release" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1265" y="521.5" width="90" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="z22MFKtNenLAoitEVp-j-78" value="&lt;h1&gt;基金代码分支&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;目前三家柜台&lt;/div&gt;&lt;div&gt;1.恒生ets&lt;/div&gt;&lt;div&gt;2.恒生cloud&lt;/div&gt;&lt;div&gt;3.金证kingdom&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;每家期货公司分两个分支&lt;/div&gt;&lt;div&gt;1.xx_develop&amp;nbsp; 开发分支，开发人员在该分支上开发&lt;/div&gt;&lt;div&gt;2.xx_release分支，生产版本分支&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="125" width="205" height="205" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
