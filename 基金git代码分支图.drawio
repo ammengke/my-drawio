@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T03:18:03.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="Ak46d5WmY2BaVh7fvkHz" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T03:21:10.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="VFfICbUzG7gMvgxgFA1W" version="12.3.6" type="github" pages="1">
   <diagram id="bGpI3JKIUPhiKCbYNTpG" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -128,6 +128,9 @@
         <mxCell id="z22MFKtNenLAoitEVp-j-67" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="z22MFKtNenLAoitEVp-j-62" target="z22MFKtNenLAoitEVp-j-38" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="GLR-bEOavdMDZW_SjU0T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z22MFKtNenLAoitEVp-j-62" target="GLR-bEOavdMDZW_SjU0T-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="z22MFKtNenLAoitEVp-j-62" value="兴证" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="750" y="606" width="120" height="60" as="geometry"/>
         </mxCell>
@@ -178,6 +181,9 @@
         </mxCell>
         <mxCell id="GLR-bEOavdMDZW_SjU0T-10" value="kingdomv2.0" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="960" y="647.5" width="90" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLR-bEOavdMDZW_SjU0T-13" value="&lt;h1&gt;v2.0版本作为重构的柜台基础版本&lt;/h1&gt;&lt;div&gt;后续升级也将在v2.0版本基础上升级&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="720" width="190" height="150" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
