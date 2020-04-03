@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T04:12:55.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="-dRKbRiNijUkRH31hS3A" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-03T06:27:55.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="NVCuUrXM7yN6syQEmWMt" version="12.9.6" type="github">
   <diagram id="gmowgZO424j0YN9QJ7oB" name="Page-1">
-    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,17 +45,119 @@
         <mxCell id="diCT8yxzyd8HaNReu1Z--3" value="cbs系统" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="diCT8yxzyd8HaNReu1Z--25" target="diCT8yxzyd8HaNReu1Z--7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="475" />
+              <mxPoint x="380" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="diCT8yxzyd8HaNReu1Z--4" target="diCT8yxzyd8HaNReu1Z--7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="580" />
+              <mxPoint x="310" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--37" value="3.重试（错误重试3次）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="diCT8yxzyd8HaNReu1Z--33">
+          <mxGeometry x="0.319" y="-2" relative="1" as="geometry">
+            <mxPoint x="-27.5" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="diCT8yxzyd8HaNReu1Z--4" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="420" width="40" height="300" as="geometry" />
+          <mxGeometry x="175" y="420" width="40" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="diCT8yxzyd8HaNReu1Z--4">
+          <mxGeometry x="15" y="270" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="diCT8yxzyd8HaNReu1Z--6" value="db" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="370" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="diCT8yxzyd8HaNReu1Z--7" target="diCT8yxzyd8HaNReu1Z--8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="580" />
+              <mxPoint x="500" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--12" value="4.请求当月架构数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="diCT8yxzyd8HaNReu1Z--11">
+          <mxGeometry x="0.1854" relative="1" as="geometry">
+            <mxPoint x="-18.5" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407.5" y="630" as="sourcePoint" />
+            <mxPoint x="197.5" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--18" value="6.返回数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="diCT8yxzyd8HaNReu1Z--16">
+          <mxGeometry x="-0.1762" relative="1" as="geometry">
+            <mxPoint x="-21.5" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="diCT8yxzyd8HaNReu1Z--7" target="diCT8yxzyd8HaNReu1Z--4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="530" />
+              <mxPoint x="300" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--36" value="2.返回失败信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="diCT8yxzyd8HaNReu1Z--35">
+          <mxGeometry x="0.0905" y="24" relative="1" as="geometry">
+            <mxPoint x="15.5" y="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="diCT8yxzyd8HaNReu1Z--7" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="420" width="40" height="300" as="geometry" />
+          <mxGeometry x="385" y="420" width="40" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="612.5" y="630" as="sourcePoint" />
+            <mxPoint x="407.5" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--17" value="5.返回当月架构数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="diCT8yxzyd8HaNReu1Z--15">
+          <mxGeometry x="-0.1756" y="2" relative="1" as="geometry">
+            <mxPoint x="-17.5" y="-22" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="diCT8yxzyd8HaNReu1Z--8" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="420" width="40" height="300" as="geometry" />
+          <mxGeometry x="595" y="420" width="40" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--25" value="失败" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="diCT8yxzyd8HaNReu1Z--4" target="diCT8yxzyd8HaNReu1Z--25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="194.5" y="470" as="sourcePoint" />
+            <mxPoint x="404.5" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="475" />
+              <mxPoint x="220" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--34" value="1.请求数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--21" value="7.数据匹配同步处理" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="680" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="225" y="680" />
+            </Array>
+            <mxPoint x="205" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--39" value="&lt;h1&gt;匹配方案&lt;/h1&gt;&lt;p&gt;1.创建自增ID&lt;/p&gt;&lt;p&gt;2.增加oId关联字段，同步以此ID作为匹配对象&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="630" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
