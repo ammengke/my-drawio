@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T04:08:36.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="gfEVNsnWlFE4yE3jiPkT" version="12.9.6" type="github"><diagram id="gmowgZO424j0YN9QJ7oB" name="Page-1">5VjbjqM4EP0aP6YF5hJ4DITMrOayq+2R9vIycsABZhwcGec2X79lYxpooLsj9c62tK082MflqnK5zonTyIn3l3eCHIpPPKMMYSu7IGeNMLZdjJH6WNnVIKFjN0guysxgHXBf/qAGtAx6LDNaDwwl50yWhyGY8qqiqRxgRAh+HprtOBtGPZCcjoD7lLAx+keZyaJBA7zs8Pe0zIs2su2HzcqetMbmJHVBMn7uQU6CnFhwLpvR/hJTpqrX1qXZt5lZfUhM0Eq+ZEP19fT+7+U76xR//vol+Pjhl99/jRYm2Vpe2wPTDM5vplzIgue8Iizp0EjwY5VR5dWCWWfzkfMDgDaA36iUV3OZ5Cg5QIXcM7MKCYvrn2r/nddO/+qvrS/GeTO7mllG6kLHVYZN4irb2XoYqOZHkdInitD2FRE5lU/Y4Ydbg36nfE8hOdgnKCOyPA3zIKbv8gc7s3UlBLn2DA68rGTd8/ybAsDAcAhbpn8Mg1pmbGbsPftJexg0GbSz3lE6SLfODW3UxjwRdjR1QEmAog0KXZR4KIxQmOiBhYIYJT5ardHKU4PQQ5GlBgEgyagdJb3IYfcQVuYVjFO4ZyoAOFEhS2DsyizsyyxrGpXW5Q+y1a5U/5hSg18vQt4aEEa2lEUk/Z7rpo4540LHdXb676HPVAx6QROKY/x3PO934Dznxm1kvFt3NvaWgys0AW/rs1FjLOxHXh954LtdDe0/7JXX6Y5Rc6TbGiVLFDkoivQA+mMzuvtOaNS9n4tS0vsD0VQ+w9fNsC1m72mkCLOlt90hdWzHzM+d8tvtNRc91fet+csYFPPWyi3fkjxb/5E84xfK88zl/rvy/Fhu7Wfk+bGc2z9DnoNJdV5tULRUyhvZKMATWjzW6/+BOi9vVWfnVdQZD50ubOdnqTOeaA4XRSv1aQZB9AbF2vXemljbE5XEPtMEgbP4uRopUgG1wpXmGxTTn6JZswuy6G004KEF7Du9YYOCjfYVoyDQ36uuencp+vrq9RWF5s4Ctx1o0sN7TMXWg0A/0oJQ8f6pbA6zyaAkVKdRUUO0wigMUALyEquDGtut6GcOVfC16kCGayU8KoFYZwtpeDqTsSA1LjcvSgnfTT04Ia6rBE+9Tt0WGWUCNk251Hb/mbjPamItBf9Oe/KV+Vvf82FlVzI2lDWcpmoHMKesckC9bvZFf38vsDXDLw582jH9E7MAkaXV6DHwCrTDyyHtFuEE7cIJ2tne7byDaff7uNG77t8MTvIP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-03T04:12:55.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="-dRKbRiNijUkRH31hS3A" version="12.9.6" type="github">
+  <diagram id="gmowgZO424j0YN9QJ7oB" name="Page-1">
+    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n_vHZ7G0vCN_T8LKIROB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="n_vHZ7G0vCN_T8LKIROB-1" target="n_vHZ7G0vCN_T8LKIROB-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="210" />
+              <mxPoint x="510" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_vHZ7G0vCN_T8LKIROB-10" value="返回同步数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="n_vHZ7G0vCN_T8LKIROB-9" vertex="1" connectable="0">
+          <mxGeometry x="0.1257" y="1" relative="1" as="geometry">
+            <mxPoint x="-17" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_vHZ7G0vCN_T8LKIROB-1" value="cbs系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n_vHZ7G0vCN_T8LKIROB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="n_vHZ7G0vCN_T8LKIROB-2" target="n_vHZ7G0vCN_T8LKIROB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="110" />
+              <mxPoint x="200" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_vHZ7G0vCN_T8LKIROB-8" value="请求数据同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="n_vHZ7G0vCN_T8LKIROB-7" vertex="1" connectable="0">
+          <mxGeometry x="0.1257" y="3" relative="1" as="geometry">
+            <mxPoint x="27" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_vHZ7G0vCN_T8LKIROB-2" value="人事系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n_vHZ7G0vCN_T8LKIROB-12" value="&lt;h1&gt;定时同步&lt;/h1&gt;&lt;p&gt;1.每月cbs修改组织架构前同步&lt;/p&gt;&lt;p&gt;问题：&lt;br&gt;1.如何匹配数据？&lt;/p&gt;&lt;p&gt;2.同步失败如何处理？&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="-90" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--2" value="人事系统" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--3" value="cbs系统" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--4" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="420" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--6" value="db" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--7" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="420" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--8" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="40" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
