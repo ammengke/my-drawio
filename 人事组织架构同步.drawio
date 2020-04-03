@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T06:27:55.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="NVCuUrXM7yN6syQEmWMt" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-03T06:48:49.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="5fIc1eSQ8CRYr8-xoyUB" version="12.9.6" type="github">
   <diagram id="gmowgZO424j0YN9QJ7oB" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="diCT8yxzyd8HaNReu1Z--58" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="160" width="540" height="660" as="geometry" />
+        </mxCell>
         <mxCell id="n_vHZ7G0vCN_T8LKIROB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="n_vHZ7G0vCN_T8LKIROB-1" target="n_vHZ7G0vCN_T8LKIROB-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -158,6 +161,51 @@
         </mxCell>
         <mxCell id="diCT8yxzyd8HaNReu1Z--39" value="&lt;h1&gt;匹配方案&lt;/h1&gt;&lt;p&gt;1.创建自增ID&lt;/p&gt;&lt;p&gt;2.增加oId关联字段，同步以此ID作为匹配对象&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="630" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--40" value="tb_organization（机构表）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-428.5" y="246" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--41" value="tb_auth_key(权限表)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-641.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--42" value="feng_organization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="225.5" width="40" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--44" value="feng_auth_key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-631.5" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--46" value="tb_user_info（用户基础信息表）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-258.5" y="246" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--47" value="cbs_user_info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-252" y="225.5" width="42" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--52" value="tb_dictionary_type（字典类型表）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-481.5" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--53" value="tb_dictionary_value（字典值表）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-291.5" y="530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--54" value="tb_role（角色表）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-641.5" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--55" value="tb_user_role（用户角色表）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-461.5" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--56" value="tb_user_organization（用户机构表）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-641.5" y="246" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--63" value="tb_role_auth(角色权限表)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-641.5" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--64" value="feng_user_organization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-601.5" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--71" value="feng_role" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-631.5" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--79" value="feng_user_role" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-433" y="330" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
