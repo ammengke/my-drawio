@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T06:48:49.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="5fIc1eSQ8CRYr8-xoyUB" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-03T06:57:15.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="ywZKs80EzLOeSNIkzeHC" version="12.9.6" type="github">
   <diagram id="gmowgZO424j0YN9QJ7oB" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,6 +206,18 @@
         </mxCell>
         <mxCell id="diCT8yxzyd8HaNReu1Z--79" value="feng_user_role" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-433" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--82" value="&lt;h1&gt;机构事项&lt;/h1&gt;&lt;p&gt;1.节点类型（固定值）&lt;/p&gt;&lt;p&gt;2.机构类型（字典）&lt;/p&gt;&lt;p&gt;3.县域？&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-651" y="10" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--83" value="tb_log(日志表)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-481" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--84" value="关键字段：&lt;br&gt;类型、业务id、操作人、时间、内容" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-474.5" y="720" width="183" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="diCT8yxzyd8HaNReu1Z--85" value="feng_role_auth" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-631.5" y="620" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
