@@ -1,6 +1,6 @@
-<mxfile modified="2020-06-10T11:56:25.468Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="fmSW77sFPuZhEB6Uaf6H" version="12.8.6" type="github">
+<mxfile modified="2020-06-10T11:59:50.855Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="efb71O4SzkESG89mPLDX" version="12.8.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="2037" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,6 +76,19 @@
         </mxCell>
         <mxCell id="68yGbEk53HBtTiQQJNc5-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="68yGbEk53HBtTiQQJNc5-50" target="68yGbEk53HBtTiQQJNc5-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68yGbEk53HBtTiQQJNc5-104" value="调取指定服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=22;fontColor=#000000;" vertex="1" connectable="0" parent="68yGbEk53HBtTiQQJNc5-70">
+          <mxGeometry x="-0.0517" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68yGbEk53HBtTiQQJNc5-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="68yGbEk53HBtTiQQJNc5-50" target="68yGbEk53HBtTiQQJNc5-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68yGbEk53HBtTiQQJNc5-103" value="获取服务地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=22;fontColor=#000000;" vertex="1" connectable="0" parent="68yGbEk53HBtTiQQJNc5-102">
+          <mxGeometry x="-0.0459" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="68yGbEk53HBtTiQQJNc5-50" value="基础API" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="450" width="127" height="90" as="geometry" />
@@ -175,6 +188,9 @@
         </mxCell>
         <mxCell id="68yGbEk53HBtTiQQJNc5-97" value="每个个性化项目中都有个性化CTRL和SERVICE" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1380" y="810" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="68yGbEk53HBtTiQQJNc5-101" value="服务地址" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
