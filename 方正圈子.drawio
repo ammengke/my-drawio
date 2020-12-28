@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T07:57:03.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="cjU_zwXvlG0PYsqLm7Qi" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T07:58:46.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="toefkJKuHGvrtRN0dbaq" version="14.1.1" type="github">
   <diagram id="kjNfu8Xx3Lx_zaVhcjmf" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,13 +79,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="I2nzyUuCN47IVgSwzWdf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bneU8rVOEiQd-OsVHFBt-11" target="I2nzyUuCN47IVgSwzWdf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I2nzyUuCN47IVgSwzWdf-3" value="内网socket连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I2nzyUuCN47IVgSwzWdf-2">
+          <mxGeometry x="-0.0651" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bneU8rVOEiQd-OsVHFBt-11" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;手机端服务&amp;nbsp; &amp;nbsp; 10.166.20.157" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
           <mxGeometry x="200" y="670" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bneU8rVOEiQd-OsVHFBt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bneU8rVOEiQd-OsVHFBt-12" target="bneU8rVOEiQd-OsVHFBt-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bneU8rVOEiQd-OsVHFBt-29" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;xxx.xxx.xxx.xxx&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bneU8rVOEiQd-OsVHFBt-26" vertex="1" connectable="0">
+        <mxCell id="bneU8rVOEiQd-OsVHFBt-29" value="10.166.40.12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bneU8rVOEiQd-OsVHFBt-26" vertex="1" connectable="0">
           <mxGeometry x="0.5576" y="1" relative="1" as="geometry">
             <mxPoint x="-1.04" y="7.53" as="offset" />
           </mxGeometry>
@@ -99,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IUPC3U68XSw1S8rsNcTR-10" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;xxx.xxx.xxx.xxx&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IUPC3U68XSw1S8rsNcTR-3" vertex="1" connectable="0">
+        <mxCell id="IUPC3U68XSw1S8rsNcTR-10" value="10.166.40.12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IUPC3U68XSw1S8rsNcTR-3" vertex="1" connectable="0">
           <mxGeometry x="0.5502" y="1" relative="1" as="geometry">
             <mxPoint x="-44.06" y="29" as="offset" />
           </mxGeometry>
@@ -127,6 +135,9 @@
         </mxCell>
         <mxCell id="bneU8rVOEiQd-OsVHFBt-24" value="mongodb" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="420" y="880" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2nzyUuCN47IVgSwzWdf-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;socket服务&amp;nbsp; &amp;nbsp; 10.166.20.157:8975" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="-130" y="660" width="50" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
