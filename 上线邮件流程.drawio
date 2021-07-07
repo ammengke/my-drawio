@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T10:25:42.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" version="14.8.3" etag="ShRhipIXlI46clthptEi" type="github"><diagram id="eo_N5ZzQ6U1ROaBjfXmw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-07T10:35:31.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="-DIfgAPIQIr0A2gMvFv7" version="14.8.3" type="github">
+  <diagram id="eo_N5ZzQ6U1ROaBjfXmw" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-1" value="项目经理发上线申请邮件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-2" value="项目上线流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-3" target="4z9MTvA88N5O7Y9jOaXC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-3" value="发送给测试，抄送给产品、徐文超、老板、相关项目成员" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="600" y="125" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-5" target="4z9MTvA88N5O7Y9jOaXC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-5" target="4z9MTvA88N5O7Y9jOaXC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-5" value="测试回复邮件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-6" target="4z9MTvA88N5O7Y9jOaXC-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-6" value="驳回" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="275" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-9" target="4z9MTvA88N5O7Y9jOaXC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-9" value="通过" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="375" y="390" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-11" target="4z9MTvA88N5O7Y9jOaXC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-11" target="4z9MTvA88N5O7Y9jOaXC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-11" value="产品回复邮件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-13" target="4z9MTvA88N5O7Y9jOaXC-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="530" />
+              <mxPoint x="180" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-13" value="驳回" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="505" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-16" target="4z9MTvA88N5O7Y9jOaXC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-16" target="4z9MTvA88N5O7Y9jOaXC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-16" value="通过" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="375" y="610" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-18" value="项目经理实施上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-20" value="产品经理发送上线申请邮件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4z9MTvA88N5O7Y9jOaXC-22" target="4z9MTvA88N5O7Y9jOaXC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4z9MTvA88N5O7Y9jOaXC-22" value="发送给客户，抄送给项目组相关人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="630" y="735" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
