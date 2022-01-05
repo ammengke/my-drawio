@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T08:14:59.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="QKlHiW-gBWy7er9aJhQ8" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T08:21:14.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="EDF4N_x1YMhY9zexymoE" version="16.0.3" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bQanzyuvM3PR-ToL9I3--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="90" width="990" height="670" as="geometry" />
+          <mxGeometry x="220" y="90" width="990" height="760" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--2" value="汽车服务运营平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCEF5;strokeColor=#9673a6;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="990" height="30" as="geometry" />
@@ -23,22 +23,22 @@
           <mxGeometry x="950" y="130" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="370" y="700" width="840" height="60" as="geometry" />
+          <mxGeometry x="370" y="790" width="840" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--9" value="综合服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="370" y="670" width="840" height="30" as="geometry" />
+          <mxGeometry x="370" y="760" width="840" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--11" value="驾驶员管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="490" y="710" width="220" height="40" as="geometry" />
+          <mxGeometry x="490" y="800" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--12" value="停车场管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="730" y="710" width="220" height="40" as="geometry" />
+          <mxGeometry x="730" y="800" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--13" value="服务质量管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="970" y="710" width="220" height="40" as="geometry" />
+          <mxGeometry x="970" y="800" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="220" y="150" width="150" height="610" as="geometry" />
+          <mxGeometry x="220" y="150" width="150" height="700" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--25" value="三方服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#CFCEF5;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="150" height="30" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="230" y="430" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--45" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="385" y="190" width="235" height="470" as="geometry" />
+          <mxGeometry x="385" y="190" width="235" height="560" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--34" value="定车定员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="444.5" y="197.5" width="116" height="39" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="230" y="494.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--47" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="662.5" y="190" width="235" height="470" as="geometry" />
+          <mxGeometry x="662.5" y="190" width="235" height="560" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--48" value="报价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="670" y="196.5" width="108" height="34.5" as="geometry" />
@@ -140,13 +140,61 @@
           <mxGeometry x="782" y="509" width="108" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--65" value="业务查询　" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="782" y="559" width="108" height="34.5" as="geometry" />
+          <mxGeometry x="782" y="609" width="108" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="942.5" y="191" width="235" height="470" as="geometry" />
+          <mxGeometry x="942.5" y="191" width="235" height="559" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--67" value="业务预订" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="950" y="196.5" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--68" value="业务审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="196.5" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--72" value="预订控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="249" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--73" value="网络订车管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="248" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--74" value="车辆司机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="299" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--75" value="车辆分配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="299" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--76" value="网站及微信公众号订车" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="350" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--77" value="驾驶员APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="350" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--78" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="782" y="557.25" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--79" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="406.75" width="108" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--80" value="统计业务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" vertex="1" parent="1">
+          <mxGeometry x="950" y="554.5" width="220" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--81" value="票务管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" vertex="1" parent="1">
+          <mxGeometry x="959" y="600" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--82" value="业务数据控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" vertex="1" parent="1">
+          <mxGeometry x="1071" y="600" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--83" value="票卡汇总单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" vertex="1" parent="1">
+          <mxGeometry x="959" y="638.5" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--84" value="票卡对账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" vertex="1" parent="1">
+          <mxGeometry x="1071" y="636.75" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--85" value="油耗统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" vertex="1" parent="1">
+          <mxGeometry x="959" y="674" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bQanzyuvM3PR-ToL9I3--86" value="检测线统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" vertex="1" parent="1">
+          <mxGeometry x="1071" y="674" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
