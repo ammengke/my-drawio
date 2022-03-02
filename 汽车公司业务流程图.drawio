@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T11:44:02.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="cRUjAGdcEDiymOFRBeSQ" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T09:54:22.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="o-GeOLbeJOCyn1bIiKhH" version="16.6.4" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
-    <mxGraphModel dx="1673" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,22 +293,25 @@
           <mxGeometry x="1300" y="231" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--139" value="日志分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="304.5" width="150" height="30" as="geometry" />
+          <mxGeometry x="1220" y="334.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--140" value="登录日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="345.5" width="59" height="30" as="geometry" />
+          <mxGeometry x="1220" y="375.5" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--141" value="操作日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="345.5" width="59" height="30" as="geometry" />
+          <mxGeometry x="1300" y="375.5" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--143" value="错误日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="390" width="59" height="30" as="geometry" />
+          <mxGeometry x="1220" y="420" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--145" value="配置管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#CFCEF5;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="459" width="150" height="30" as="geometry" />
+          <mxGeometry x="1220" y="489" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--146" value="系统配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="509" width="59" height="30" as="geometry" />
+          <mxGeometry x="1220" y="539" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5w5wjqFVOdjOYbuWLHqr-1" value="微信通知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="280" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
