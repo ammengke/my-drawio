@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T12:53:25.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="avSNB8Jhar5r-UTt9zi_" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T12:53:45.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="sgTCfX-AcdR7dzACNAu4" version="16.0.3" type="github">
   <diagram id="j5msO9XKNBTfVSApXjJV" name="Page-1">
     <mxGraphModel dx="1186" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="h-4lxs5_fm6_QuoArNwU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h-4lxs5_fm6_QuoArNwU-6" target="h-4lxs5_fm6_QuoArNwU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-4lxs5_fm6_QuoArNwU-6" value="nginx" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" vertex="1" parent="1">
+        <mxCell id="h-4lxs5_fm6_QuoArNwU-6" value="nginx 负载&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="h-4lxs5_fm6_QuoArNwU-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h-4lxs5_fm6_QuoArNwU-7" target="h-4lxs5_fm6_QuoArNwU-15">
