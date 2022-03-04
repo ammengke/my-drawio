@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T08:42:22.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="e5tuhTmiAIMi3Re2HT3N" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T08:43:05.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="u5yg3EBd8EiNj_Dt9bRa" version="16.0.3" type="github">
   <diagram id="ABhbRu5hAyR7Rn3_rcih" name="Page-1">
     <mxGraphModel dx="1426" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="lwy3qHEec11jCqDCyXSb-6" value="应收帐款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lwy3qHEec11jCqDCyXSb-7" value="路单确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lwy3qHEec11jCqDCyXSb-8" value="合同确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
