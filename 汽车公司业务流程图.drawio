@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T09:54:22.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="o-GeOLbeJOCyn1bIiKhH" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T23:50:19.262Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cTcOKZH-9CQSgCk9qakr" version="17.4.4" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bQanzyuvM3PR-ToL9I3--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="990" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="bQanzyuvM3PR-ToL9I3--2" value="汽车服务运营平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCEF5;strokeColor=#9673a6;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="bQanzyuvM3PR-ToL9I3--2" value="锦江汽车服务运营平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCEF5;strokeColor=#9673a6;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="200" y="90" width="1180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
@@ -310,7 +310,7 @@
         <mxCell id="bQanzyuvM3PR-ToL9I3--146" value="系统配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1220" y="539" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5w5wjqFVOdjOYbuWLHqr-1" value="微信通知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="5w5wjqFVOdjOYbuWLHqr-1" value="微信通知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1220" y="280" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
