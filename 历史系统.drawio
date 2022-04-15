@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T09:58:03.859Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VOw3ZnZqFevr--GOd1qZ" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T09:59:16.390Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="thzPWa_vocwqPMdf9DI9" version="17.4.4" type="github">
   <diagram id="Inx6HUQAcLgR1TPovdSU" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,13 +31,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RvGu80hFbcnl9BuMKpU1-5" value="用户A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="20" height="40" as="geometry" />
+          <mxGeometry x="569" y="158" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RvGu80hFbcnl9BuMKpU1-6" value="车管系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="519" y="298" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RvGu80hFbcnl9BuMKpU1-10" value="现有系统操作示意图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="351" y="396" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvGu80hFbcnl9BuMKpU1-11" value="X" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvGu80hFbcnl9BuMKpU1-2" target="RvGu80hFbcnl9BuMKpU1-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="263" y="357" as="sourcePoint" />
+            <mxPoint x="313" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvGu80hFbcnl9BuMKpU1-12" value="X" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="329.5" as="sourcePoint" />
+            <mxPoint x="520" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvGu80hFbcnl9BuMKpU1-13" value="数据不通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvGu80hFbcnl9BuMKpU1-14" value="数据不通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454" y="298" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
