@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T08:40:17.460Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="DPFKbgbka9Vc2Pjln6xo" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T08:40:56.829Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="v8w2BR798qm81n01qUOQ" version="17.4.4" type="github">
   <diagram id="1S2Vz3SMCuL-4m72MfmH" name="第 1 页">
     <mxGraphModel dx="1422" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jrue9S0TpO6nU7mHcI8S-13" value="数据平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Jrue9S0TpO6nU7mHcI8S-13" value="数据中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="10" y="300" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Jrue9S0TpO6nU7mHcI8S-14" value="AI" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=20;fontColor=#FFFFFF;fillColor=#4473C5;fontStyle=1" parent="1" vertex="1">
