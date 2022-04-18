@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T09:53:04.716Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yC6JILkn2ky7jcrlGUz8" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T09:59:08.061Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="C-ugm59qavne681TBY74" version="17.4.5" type="github">
   <diagram id="A1y6-r479yuS4qFz9Nl_" name="Page-1">
     <mxGraphModel dx="1422" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,8 +34,26 @@
         <mxCell id="3-TVI8ZTu8FyL8jXZ4YY-8" value="通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="290" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3-TVI8ZTu8FyL8jXZ4YY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3-TVI8ZTu8FyL8jXZ4YY-11" target="3-TVI8ZTu8FyL8jXZ4YY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3-TVI8ZTu8FyL8jXZ4YY-11" value="按计划开发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="550" y="285" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3-TVI8ZTu8FyL8jXZ4YY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3-TVI8ZTu8FyL8jXZ4YY-14" target="3-TVI8ZTu8FyL8jXZ4YY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-TVI8ZTu8FyL8jXZ4YY-14" value="阶段代码走查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="673" y="285" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3-TVI8ZTu8FyL8jXZ4YY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3-TVI8ZTu8FyL8jXZ4YY-15" target="3-TVI8ZTu8FyL8jXZ4YY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3-TVI8ZTu8FyL8jXZ4YY-15" value="阶段交付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="793" y="285" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3-TVI8ZTu8FyL8jXZ4YY-16" value="完整交付" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="910" y="285" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
