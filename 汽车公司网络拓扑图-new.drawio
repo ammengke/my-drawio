@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T12:28:09.506Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="17.4.6" etag="8xLqtvkHWpfYMGPEjs5I" type="github"><diagram id="IjAMOr1OzUYP8cjZ_zTt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T12:47:01.178Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8mFtxE-3KBKhF7fchw5Y" version="17.4.6" type="github">
+  <diagram id="IjAMOr1OzUYP8cjZ_zTt" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-1" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#2C6CBF;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="230" as="sourcePoint" />
+            <mxPoint x="740" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-2" value="域名：*.xxx.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="575" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="780" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="480" width="410" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-5" value="负载均衡&lt;br&gt;公网IP：X.X.X.X" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-6" value="80" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-7" value="443" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2C6CBF;strokeWidth=3;curved=1;" edge="1" parent="1" source="D1nOF1cbzJ2PWLS59vnM-2" target="D1nOF1cbzJ2PWLS59vnM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2C6CBF;strokeWidth=3;curved=1;" edge="1" parent="1" source="D1nOF1cbzJ2PWLS59vnM-2" target="D1nOF1cbzJ2PWLS59vnM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
