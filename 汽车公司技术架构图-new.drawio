@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:40:45.761Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="im3WnU1FVsRz_-SrH_Om" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:42:02.064Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="v7Obm1oMg27qXrICY5hn" version="17.4.6" type="github">
   <diagram id="NsUplz_uinZOCI7nmMil" name="Page-1">
     <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,16 +127,16 @@
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-48" value="Logback" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="188.25" y="351" width="89" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="jRPfxaUJ6jdpRpEulSyn-49" value="fastjson" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-49" value="FastJson" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="286.25" y="351" width="89" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-50" value="Swagger" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="386.75" y="351" width="89" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="jRPfxaUJ6jdpRpEulSyn-51" value="quartz" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-51" value="Quartz" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="188" y="388" width="89" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="jRPfxaUJ6jdpRpEulSyn-52" value="lombok" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-52" value="Lombok" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="286" y="388" width="89" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-53" value="Druid" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
