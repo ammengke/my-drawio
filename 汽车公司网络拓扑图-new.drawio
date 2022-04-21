@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T13:41:11.817Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZKf2PhWLdcf7r-SPNttT" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T13:49:27.817Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="kN4VWc2Wl06_Rmp5wAmZ" version="17.4.6" type="github">
   <diagram id="IjAMOr1OzUYP8cjZ_zTt" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,8 +167,29 @@
         <mxCell id="D1nOF1cbzJ2PWLS59vnM-45" value="HA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="145" y="585" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D1nOF1cbzJ2PWLS59vnM-52" value="&lt;h1 style=&quot;padding: 0px ; margin: 0px 0px 10px ; box-sizing: border-box ; font-weight: 500 ; line-height: 1.3 ; color: rgb(55 , 61 , 65) ; word-break: break-word&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;标准版-双副本&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;标准版-双副本模式采用主从（master-replica）模式搭建。主节点提供日常服务访问，备节点提供HA高可用，当主节点发生故障，系统会自动在30秒内切换至备节点，保证业务平稳运行。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-52" value="&lt;h1 style=&quot;padding: 0px ; margin: 0px 0px 10px ; box-sizing: border-box ; font-weight: 500 ; line-height: 1.3 ; color: rgb(55 , 61 , 65) ; word-break: break-word&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;标准版-双副本&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;simsun&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;标准版-双副本模式采用主从（master-replica）模式搭建。主节点提供日常服务访问，备节点提供HA高可用，当主节点发生故障，系统会自动在30秒内切换至备节点，保证业务平稳运行。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-300" y="454.75" width="220" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;dashed=1;fontColor=#1C1C1C;" vertex="1" parent="1">
+          <mxGeometry x="519.5" y="770" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-55" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;dashed=1;fontColor=#1C1C1C;" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="772" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-56" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;dashed=1;fontColor=#1C1C1C;" vertex="1" parent="1">
+          <mxGeometry x="726.5" y="774" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-57" value="数据同步" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;fontColor=#1C1C1C;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D1nOF1cbzJ2PWLS59vnM-54" target="D1nOF1cbzJ2PWLS59vnM-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575.5" y="830" as="sourcePoint" />
+            <mxPoint x="625.5" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D1nOF1cbzJ2PWLS59vnM-58" value="主备热切" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;fontColor=#1C1C1C;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1nOF1cbzJ2PWLS59vnM-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="662" y="798" as="sourcePoint" />
+            <mxPoint x="714.5" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
