@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:33:36.584Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="K_eBx3MkmGizw9ytvb4k" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:35:39.361Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="51Jdk2oSyY5Nn9nxHfGa" version="17.4.6" type="github">
   <diagram id="NsUplz_uinZOCI7nmMil" name="Page-1">
     <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,8 +223,26 @@
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-89" value="前&lt;br&gt;端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-44" y="55.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jRPfxaUJ6jdpRpEulSyn-90" value="Zuul服务网关" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-90" value="React" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="62" y="34" width="89" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-91" value="Vue" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="62" y="78" width="89" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-92" value="Node.js" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="34" width="89" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-93" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="78" width="89" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-94" value="Element UI" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="34" width="89" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-95" value="Webpack" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="78" width="89" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-96" value="axios" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="367" y="34" width="89" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
