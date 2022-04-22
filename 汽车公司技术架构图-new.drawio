@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T08:57:50.240Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yCcTiUmo4c2aWU7Jvuzp" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T08:57:59.742Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nLm8f9-xvQWv4E5tFgEm" version="17.4.5" type="github">
   <diagram id="NsUplz_uinZOCI7nmMil" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,9 +154,6 @@
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-55" value="Spring Cloud Sleuth" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="285.75" y="425" width="89" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="jRPfxaUJ6jdpRpEulSyn-56" value="Sentinel" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="189.5" y="313" width="89" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="489" y="259" width="92" height="193" as="geometry" />
         </mxCell>
@@ -272,7 +269,7 @@
           <mxGeometry x="614.5" y="45" width="89" height="28" as="geometry" />
         </mxCell>
         <mxCell id="DsEqZttGN_wy35svjwI5-1" value="Spring Data Redis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="388" y="424" width="89" height="28" as="geometry" />
+          <mxGeometry x="189.5" y="313" width="89" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
