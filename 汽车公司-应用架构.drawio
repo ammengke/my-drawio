@@ -1,17 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T13:09:21.880Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="kZeGo4CsgkWK58QDgD5j" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T13:19:27.899Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GPlwI_BchKN7XqVtvZj_" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MZKURabroFCkZTYU_OP6-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="463" width="20" height="124" as="geometry" />
+          <mxGeometry x="-117" y="461" width="20" height="114" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-82" y="460" width="815" height="130" as="geometry" />
+          <mxGeometry x="-93" y="457" width="711" height="122" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-6" value="基&lt;br&gt;础&lt;br&gt;服&lt;br&gt;务&lt;br&gt;层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-166" y="452" width="60" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-7" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="468" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-10" value="&lt;span style=&quot;text-align: left&quot;&gt;工作流引擎&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="528" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-11" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="468" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-12" value="文件数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="468" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-13" value="注册中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="468" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-14" value="配置中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="468" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-15" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="468" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-18" value="预警监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="528" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-20" value="OCR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="528" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-21" value="微信API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="528" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-22" value="地图API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="528" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-23" value="数据驾驶舱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="528" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
