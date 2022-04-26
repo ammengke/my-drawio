@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T15:11:39.610Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="UDoIeEwRnntv9tXR_bOL" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T15:21:07.750Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="D1BCH8byjP8QUf2FQUhd" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,6 +162,27 @@
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-117" y="33" width="20" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="40" width="153" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="178" y="40" width="153" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="422" y="40" width="153" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-109" value="巡游出租车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-17" y="40" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-110" value="商务小客车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="216.5" y="42" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-111" value="大客车" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="42" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="202" width="639" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
