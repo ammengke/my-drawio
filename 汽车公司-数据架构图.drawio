@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T16:09:59.721Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="O3QenNJEYnkWczS9ei_v" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T16:22:20.637Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Syjqn0R1gSZwHPzL-2Qg" version="17.4.6" type="github">
   <diagram id="0KNjnh5CUpGkUl006Qsv" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-1" value="业务数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="465" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-2" value="数据存储" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="319" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-3" value="分析模型" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="168" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-4" value="车辆运营" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="23" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="485" width="520" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-7" value="业务数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="507" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-8" value="外部数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="507" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-9" value="机器数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="507" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="338" width="520" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=5;" edge="1" parent="1" source="SLfwVvsUGQPiuo8CjVY6-11" target="SLfwVvsUGQPiuo8CjVY6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-11" value="结构化数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-12" value="企业数据中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B3B3B3;strokeWidth=5;" edge="1" parent="1" source="SLfwVvsUGQPiuo8CjVY6-13" target="SLfwVvsUGQPiuo8CjVY6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-13" value="非结构化数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#B3B3B3;" edge="1" parent="1" source="SLfwVvsUGQPiuo8CjVY6-5" target="SLfwVvsUGQPiuo8CjVY6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="187" width="520" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-21" value="用户画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="192" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-22" value="KPI模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="73" y="192" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-23" value="财务分析模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="192" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-24" value="班车分析模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="192" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-25" value="线路规划模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="192" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-26" value="停车场规划模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="239" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-27" value="应急预案模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="73" y="239" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-28" value="订车分析模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="239" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-29" value="共享班车模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="239" width="83" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-30" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="239" width="83" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
