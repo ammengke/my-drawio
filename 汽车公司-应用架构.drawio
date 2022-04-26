@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T13:51:25.284Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0DWtSyGn5WbXtIskrGBN" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T14:05:34.555Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="U2_Klz9jr0TKBKZIjLBG" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,94 +50,37 @@
           <mxGeometry x="166" y="528" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-93" y="161" width="711" height="286" as="geometry" />
+          <mxGeometry x="-93" y="324" width="711" height="123" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-25" value="领&lt;br&gt;域&lt;br&gt;服&lt;br&gt;务&lt;br&gt;层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-166" y="234.5" width="60" height="141" as="geometry" />
+          <mxGeometry x="-166" y="336.5" width="60" height="141" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-117" y="166" width="20" height="278" as="geometry" />
+          <mxGeometry x="-117" y="327" width="20" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-81" y="172" width="89" height="265" as="geometry" />
+        <mxCell id="MZKURabroFCkZTYU_OP6-71" value="权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522" y="347" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-28" value="驾驶员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-66.5" y="166" width="60" height="30" as="geometry" />
+        <mxCell id="MZKURabroFCkZTYU_OP6-72" value="驾驶员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="347" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="15" y="171.5" width="89" height="265" as="geometry" />
+        <mxCell id="MZKURabroFCkZTYU_OP6-73" value="车辆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="347" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="113" y="171.5" width="89" height="265" as="geometry" />
+        <mxCell id="MZKURabroFCkZTYU_OP6-74" value="停车场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="347" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="209" y="171" width="89" height="265" as="geometry" />
+        <mxCell id="MZKURabroFCkZTYU_OP6-75" value="修理厂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="347" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="502" y="170.5" width="89" height="265" as="geometry" />
+        <mxCell id="MZKURabroFCkZTYU_OP6-76" value="服务质量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="347" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="308" y="170" width="89" height="265" as="geometry" />
+        <mxCell id="MZKURabroFCkZTYU_OP6-77" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontColor=#000000;size=0.5;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="397" width="671" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="404" y="169.5" width="89" height="265" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-35" value="车辆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="29.5" y="166" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-36" value="资金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="126" y="165" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-37" value="停车场" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="223.5" y="165" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-38" value="修理厂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="322.5" y="166" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-48" value="服务质量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="421" y="166" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-49" value="权限角色" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="519" y="166" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-50" value="基础信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-69" y="202" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-51" value="事故信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-69" y="251" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-52" value="薪资信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-69" y="306" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-53" value="合同信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-69" y="360" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-54" value="基础信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="29.5" y="202" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-55" value="保养信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="27" y="251" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-56" value="保险信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="27" y="306" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-57" value="加油数据" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="27" y="360" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-59" value="商户信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="126.25" y="202" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-60" value="订单信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="123.75" y="251" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-61" value="支付" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="123.75" y="306" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-62" value="对账" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="123.75" y="358" width="65" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-63" value="结算" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="123.75" y="405" width="65" height="27" as="geometry" />
+        <mxCell id="MZKURabroFCkZTYU_OP6-78" value="Adapter API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="215.5" y="417" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
