@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T15:36:58.485Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="SEyq8WKDFgcNNh6Qggyq" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T15:38:11.317Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="84n1q_4pmzvrTk1RISm_" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
-    <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,21 +241,6 @@
         <mxCell id="MZKURabroFCkZTYU_OP6-138" value="结算系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-59" y="211.5" width="62" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-139" value="银企直通" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="746" y="150.5" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-140" value="交通卡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="746" y="211.5" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-141" value="GPS服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="746" y="271.5" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-142" value="交管平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="746" y="331.5" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-143" value="第三方订车平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="746" y="396" width="130" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-144" value="银企直通" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="21" y="211.5" width="62" height="31.5" as="geometry" />
         </mxCell>
@@ -279,6 +264,15 @@
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-152" value="三&lt;br&gt;方&lt;br&gt;服&lt;br&gt;务" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-89" y="201" width="22" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-153" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="-26" width="711" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-154" value="网&lt;br&gt;关&lt;br&gt;层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-162" y="-18" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MZKURabroFCkZTYU_OP6-155" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-117" y="-25" width="20" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
