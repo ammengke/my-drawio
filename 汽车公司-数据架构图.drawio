@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T16:30:05.351Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YuyyBsAWOOfsnU7mcIjP" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T16:35:25.586Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="-53iZJEf4wGs06HdqcxY" version="17.4.6" type="github">
   <diagram id="0KNjnh5CUpGkUl006Qsv" name="Page-1">
     <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,10 +124,10 @@
             <mxPoint x="341.0400000000001" y="45.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLfwVvsUGQPiuo8CjVY6-43" value="领导驾驶舱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-43" value="三种业态市场数据分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="365.5" y="75.5" width="83" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="SLfwVvsUGQPiuo8CjVY6-44" value="领导驾驶舱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="SLfwVvsUGQPiuo8CjVY6-44" value="回访反馈分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="367" y="113" width="83" height="27.5" as="geometry" />
         </mxCell>
       </root>
