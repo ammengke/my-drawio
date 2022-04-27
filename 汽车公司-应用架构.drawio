@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T07:51:12.968Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="i-Hhz__k8fvzuRTNNS6Z" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T07:55:19.342Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="g-B1FDnBhn-bDQF9pKyP" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,16 +13,16 @@
         <mxCell id="MZKURabroFCkZTYU_OP6-6" value="基&lt;br&gt;础&lt;br&gt;服&lt;br&gt;务&lt;br&gt;层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-166" y="452" width="60" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-7" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MZKURabroFCkZTYU_OP6-7" value="主从数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-64" y="468" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-10" value="&lt;span style=&quot;text-align: left&quot;&gt;工作流引擎&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-64" y="528" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-11" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MZKURabroFCkZTYU_OP6-11" value="分布式缓存" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="51" y="468" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MZKURabroFCkZTYU_OP6-12" value="文件数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MZKURabroFCkZTYU_OP6-12" value="分布式文件数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="166" y="468" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-13" value="注册中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
