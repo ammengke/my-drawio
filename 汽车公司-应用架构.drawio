@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:17:49.100Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zhmMc8AQa0Q9RhVo5fM0" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:27:16.499Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="gKovr9VhVQQHd0ey5M1I" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -367,7 +367,7 @@
         <mxCell id="oqjt-HW5z-9tvMFCPISm-106" value="HTTP/HTTPS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="472" y="993.5" width="121" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="oqjt-HW5z-9tvMFCPISm-107" value="ES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-107" value="ElasticSearch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="473.5" y="1471" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-109" value="数据层" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
@@ -453,6 +453,12 @@
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-138" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;Ribbon&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="251" y="1248" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-139" value="SpringBoot&lt;br&gt;Admin&lt;br&gt;服务监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="1144" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-140" value="SpringBoot&lt;br&gt;Sleuth&lt;br&gt;服务监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="1235.5" width="95" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
