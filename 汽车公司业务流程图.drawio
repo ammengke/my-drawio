@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T05:57:52.727Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="uGVG9L-jUYnDmCj9uxQ4" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T05:58:08.715Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xSkmnJ26mn0uWoMLSL2Q" version="17.4.6" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="bQanzyuvM3PR-ToL9I3--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="990" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="bQanzyuvM3PR-ToL9I3--2" value="锦江汽车服务运营平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCEF5;strokeColor=#9673a6;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="bQanzyuvM3PR-ToL9I3--2" value="锦江汽车数字化统一管理平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFCEF5;strokeColor=#9673a6;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="200" y="90" width="1180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
