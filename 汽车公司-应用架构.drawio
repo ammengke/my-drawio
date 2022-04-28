@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T07:57:00.460Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="KhocK-vQhGepAlDEzi-z" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:57:47.135Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="hSE0qjn-4d1FDb5AftX1" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,13 +386,13 @@
           <mxGeometry x="472" y="897" width="121" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-114" value="微信公众号/小程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="286" y="897" width="121" height="31" as="geometry" />
+          <mxGeometry x="303.5" y="897" width="121" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-115" value="APP&lt;br&gt;UI（Android、IOS）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="108" y="897" width="121" height="31" as="geometry" />
+          <mxGeometry x="136" y="897" width="121" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-116" value="Web" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-54.5" y="897" width="121" height="31" as="geometry" />
+          <mxGeometry x="-33" y="897" width="121" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
