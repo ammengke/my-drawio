@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:32:47.013Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="fjj3SlFookC544OYzdHh" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:37:17.538Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="kJfBqKu1Z_SiSgdoaXPs" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -329,19 +329,19 @@
           <mxGeometry x="-80" y="977" width="711" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-92" value="SLB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-32" y="994.5" width="121" height="31" as="geometry" />
+          <mxGeometry x="-67" y="994.5" width="121" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-80" y="885" width="711" height="62" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-104" value="CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="136" y="993.5" width="121" height="31" as="geometry" />
+          <mxGeometry x="73" y="993.5" width="121" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-105" value="Socket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="303.5" y="993.5" width="121" height="31" as="geometry" />
+          <mxGeometry x="214.5" y="993.5" width="121" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-106" value="HTTP/HTTPS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="472" y="993.5" width="121" height="31" as="geometry" />
+          <mxGeometry x="355" y="993.5" width="121" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-107" value="ElasticSearch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="473.5" y="1471" width="85" height="37" as="geometry" />
@@ -444,6 +444,15 @@
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-144" value="XXL-SSO&lt;br&gt;单点登录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="89" y="1390.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-145" value="异常监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="207" y="1390.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-146" value="消息队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="326" y="1390.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-148" value="服务限流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="495" y="992.75" width="121" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
