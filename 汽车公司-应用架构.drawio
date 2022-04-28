@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:31:49.050Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="34dVGwTozURS-3hXkOVW" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:32:47.013Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="fjj3SlFookC544OYzdHh" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,8 +439,11 @@
         <mxCell id="oqjt-HW5z-9tvMFCPISm-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-61" y="1375" width="673" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="oqjt-HW5z-9tvMFCPISm-143" value="XXL-Job&lt;br&gt;分布式定时任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-143" value="XXL-Job&lt;br&gt;定时任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-34" y="1390.5" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-144" value="XXL-SSO&lt;br&gt;单点登录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="89" y="1390.5" width="90" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
