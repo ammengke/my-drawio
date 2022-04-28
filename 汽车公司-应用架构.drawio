@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:37:56.967Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="bf2f6RbZ52oae_1FYBaA" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:38:25.382Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="muIH4ooq1y6wg0mkOlSv" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,7 +433,7 @@
         <mxCell id="oqjt-HW5z-9tvMFCPISm-139" value="SpringBoot&lt;br&gt;Admin&lt;br&gt;服务监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-55" y="1144" width="95" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="oqjt-HW5z-9tvMFCPISm-140" value="SpringBoot&lt;br&gt;Sleuth&lt;br&gt;服务监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-140" value="SpringCloud&lt;br&gt;Sleuth&lt;br&gt;服务监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-53" y="1235.5" width="95" height="55" as="geometry" />
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
