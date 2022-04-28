@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T07:55:06.544Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VGWXGx_oYphWlT_ajzTf" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:57:00.460Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="KhocK-vQhGepAlDEzi-z" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -355,18 +355,6 @@
         <mxCell id="oqjt-HW5z-9tvMFCPISm-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-80" y="885" width="711" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="oqjt-HW5z-9tvMFCPISm-97" value="WebUI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-11" y="890.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oqjt-HW5z-9tvMFCPISm-98" value="APP&lt;br&gt;UI（Android、IOS）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="102" y="887" width="142" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oqjt-HW5z-9tvMFCPISm-99" value="微信公众号/小程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="303.5" y="890.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oqjt-HW5z-9tvMFCPISm-100" value="REST API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="447" y="890.5" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-101" value="OA系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="516" y="1236" width="62" height="31.5" as="geometry" />
         </mxCell>
@@ -393,6 +381,18 @@
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-112" value="展现层" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-176" y="885" width="88" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-113" value="REST API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="472" y="897" width="121" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-114" value="微信公众号/小程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="286" y="897" width="121" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-115" value="APP&lt;br&gt;UI（Android、IOS）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="108" y="897" width="121" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="oqjt-HW5z-9tvMFCPISm-116" value="Web" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-54.5" y="897" width="121" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
