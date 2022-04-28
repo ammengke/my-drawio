@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:40:15.297Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Yg8UmlSzORhOw1bqBDpA" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:40:44.169Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="FmWUrRuSYA1NTFPZPrmo" version="17.4.6" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -453,9 +453,6 @@
         </mxCell>
         <mxCell id="oqjt-HW5z-9tvMFCPISm-148" value="服务限流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="495" y="992.75" width="121" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="oqjt-HW5z-9tvMFCPISm-149" value="支付网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="449" y="1390.5" width="90" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
