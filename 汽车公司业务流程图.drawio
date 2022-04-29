@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T05:36:45.338Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="gshA14BR6007gAT7o7Nx" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T05:44:04.284Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Wmft-dsJdaTDMJv81mTv" version="17.4.6" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,7 +265,7 @@
         <mxCell id="bQanzyuvM3PR-ToL9I3--132" value="&lt;span style=&quot;font-size: 16px&quot;&gt;权限角色管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1095" y="890" width="107" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="bQanzyuvM3PR-ToL9I3--133" value="权限维护" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="bQanzyuvM3PR-ToL9I3--133" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1095" y="931" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--134" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -324,6 +324,12 @@
         </mxCell>
         <mxCell id="dXGPN9Q9RY6aG2eSHOQV-7" value="退款" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="732" y="1010" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXGPN9Q9RY6aG2eSHOQV-8" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1152" y="931" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXGPN9Q9RY6aG2eSHOQV-9" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="970" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
