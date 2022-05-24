@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T06:33:35.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="anxPIu7UuPRGHxFGW4Fd" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T06:34:47.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="DMpiKe7BT3Z7q57Bb49d" version="18.0.5" type="github">
   <diagram id="eCozaD6dcHWi1UeDkc9o" name="第 1 页">
     <mxGraphModel dx="1422" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="lf-6dnL8f58IvJTU5W-v-32" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;strokeColor=#182E3E;" edge="1" parent="1" source="lf-6dnL8f58IvJTU5W-v-29" target="lf-6dnL8f58IvJTU5W-v-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lf-6dnL8f58IvJTU5W-v-29" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;nginx&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;部署在资管（主）服务器&lt;/font&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=k_proxy;rounded=0;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-29" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;nginx&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;部署在投顾（主）服务器&lt;/font&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=k_proxy;rounded=0;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="1197" width="50" height="58" as="geometry" />
         </mxCell>
         <mxCell id="lf-6dnL8f58IvJTU5W-v-36" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;strokeColor=#182E3E;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="lf-6dnL8f58IvJTU5W-v-30" target="lf-6dnL8f58IvJTU5W-v-33">
