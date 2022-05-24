@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T03:27:15.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="KsXgFGwJ8kFeKSG9xJgf" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T06:13:01.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="y1RHLAD-pLtOvZLpx4p7" version="18.0.5" type="github">
   <diagram id="eCozaD6dcHWi1UeDkc9o" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,6 +109,34 @@
         </mxCell>
         <mxCell id="lf-6dnL8f58IvJTU5W-v-35" value="从2" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;rounded=0;sketch=0;fontColor=#1A1A1A;strokeColor=#0791FA;strokeWidth=2;fillColor=none;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="436.48" y="1607" width="93.24" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-38" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;strokeColor=#182E3E;fontStyle=1" edge="1" parent="1" source="lf-6dnL8f58IvJTU5W-v-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267" y="61" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-39" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.iphone;strokeColor=#0791FA;rounded=0;sketch=0;fontColor=#1A1A1A;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="92" y="15" width="43" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-40" value="博易APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="84" y="122" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-41" value="写入" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;fillColor=#f5f5f5;strokeColor=#666666;labelBackgroundColor=none;fontStyle=1" edge="1" parent="1" source="lf-6dnL8f58IvJTU5W-v-42" target="lf-6dnL8f58IvJTU5W-v-44">
+          <mxGeometry x="-0.029" y="18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-42" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;rounded=0;sketch=0;fontColor=#1A1A1A;strokeColor=#0791FA;strokeWidth=2;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="269" y="10" width="62.72" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-43" value="投顾应用&lt;br&gt;（本地部署）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="122" width="91" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-44" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;rounded=0;sketch=0;fontColor=#1A1A1A;strokeColor=#0791FA;strokeWidth=2;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="31.5" width="93.24" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-45" value="数据库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="477" y="121" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
