@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T02:42:28.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="fyTvMgxMw-UFBB3lRxRM" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T03:02:39.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="Piryf2d4J42xdDoFWIcw" version="18.0.5" type="github">
   <diagram id="eCozaD6dcHWi1UeDkc9o" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
       <root>
@@ -31,6 +31,33 @@
         </mxCell>
         <mxCell id="lf-6dnL8f58IvJTU5W-v-9" value="数据库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="473" y="345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-20" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;strokeColor=#182E3E;" edge="1" parent="1" source="lf-6dnL8f58IvJTU5W-v-11" target="lf-6dnL8f58IvJTU5W-v-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-11" value="移动端服务&amp;amp;PC端服务" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;rounded=0;sketch=0;fontColor=#1A1A1A;strokeColor=#0791FA;strokeWidth=2;fillColor=none;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310.64" y="740" width="62.72" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=#1A1A1A;strokeColor=#182E3E;fontStyle=1" edge="1" parent="1" source="lf-6dnL8f58IvJTU5W-v-13" target="lf-6dnL8f58IvJTU5W-v-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-13" value="移动端" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.iphone;strokeColor=#0791FA;rounded=0;sketch=0;fontColor=#1A1A1A;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="203" y="476" width="43" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=#1A1A1A;strokeColor=#182E3E;fontStyle=1" edge="1" parent="1" source="lf-6dnL8f58IvJTU5W-v-14" target="lf-6dnL8f58IvJTU5W-v-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-14" value="PC端" style="fontColor=#1A1A1A;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=0;sketch=0;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="433" y="480" width="114" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-18" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;strokeColor=#182E3E;fontStyle=1" edge="1" parent="1" source="lf-6dnL8f58IvJTU5W-v-15" target="lf-6dnL8f58IvJTU5W-v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-15" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;nginx" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=k_proxy;rounded=0;fontColor=#1A1A1A;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="317" y="605" width="50" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="lf-6dnL8f58IvJTU5W-v-19" value="数据服务器" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;rounded=0;sketch=0;fontColor=#1A1A1A;strokeColor=#0791FA;strokeWidth=2;fillColor=none;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295.38" y="938" width="93.24" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
