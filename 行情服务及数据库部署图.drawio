@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T05:44:04.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" version="18.1.2" etag="t3qwfOYTCKH3arSFeBHf" type="github"><diagram id="9NY87FK2cNxrX7ADAFkm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-09T05:48:00.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="NdCe5aI28Pywn8XdazRM" version="18.1.2" type="github">
+  <diagram id="9NY87FK2cNxrX7ADAFkm" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbkfaNOkaB7Vyl6dpAQK-1" target="vbkfaNOkaB7Vyl6dpAQK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-1" value="期货A基金应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="260" width="565" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbkfaNOkaB7Vyl6dpAQK-3" target="vbkfaNOkaB7Vyl6dpAQK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-3" value="期货B基金应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbkfaNOkaB7Vyl6dpAQK-4" target="vbkfaNOkaB7Vyl6dpAQK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-4" value="期货N基金应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-8" value="行情数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-9" value="天相数据库（备）&lt;br&gt;27.109.125.155" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-10" value="行情服务&amp;amp;天相数据库&lt;br&gt;27.109.125.133&lt;br&gt;&lt;br&gt;主行情服务&amp;amp;主数据库" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vbkfaNOkaB7Vyl6dpAQK-11" value="行情服务（备）&lt;br&gt;27.109.125.156" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
