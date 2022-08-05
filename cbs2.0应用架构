@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T09:55:16.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="YmHqVNGHFnE1nA7R_dXr" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T10:01:44.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="8icx5W1nGzq_ynRQjc0K" version="20.1.1" type="github">
   <diagram id="FIQT3pwKjuodvygs0_mC" name="第 1 页">
     <mxGraphModel dx="1422" dy="1931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-1" value="主机&lt;br&gt;Spring Cloud Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="202" y="169" width="136" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="L5L_JWcabAk_taaHSs-1-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L5L_JWcabAk_taaHSs-1-2" target="L5L_JWcabAk_taaHSs-1-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="115" y="278" width="602" height="288" as="geometry" />
