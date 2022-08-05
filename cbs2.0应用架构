@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T08:19:55.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="N9sk9bEdk5E7Ha-Srb7g" version="20.1.1" type="github"><diagram id="FIQT3pwKjuodvygs0_mC" name="第 1 页">7VZNj5swEP01PrYCHAg5kizblbqtWqVSjysHz4K3homcIR/99TXBhBD2U9r2VCkH+409tt+bvIHxRbn/ZMS6+IISNAs8uWf8igWBPwkC1vw8eWiRaeSA3CjZQl4PLNVvcDs7tFYSNg5rIULUpNZDMMOqgowGmDAGd8Nl96jlAFiLHEbAMhN6jP5UkooWjYNpj9+AyovuZD+atZFSdIvdSzaFkLg7g3jK+MIgUjsq9wvQDXlDXq6fiJ4uZqCi12xYJfzuezF72NZ3nvn8NVnd/IAPYZtlK3TtHuwuS4eOAYN1JaFJ4jE+3xWKYLkWWRPdWc0tVlCp7cy3w3ul9QI1muNefh9nkGUW35DBX3AWWcXhJGwSuguAIdg/+TL/xJctNMASyBzskm6DP2m3HLqqcyl2vWKRx1usOFMrilyhuCLJT6l7Hu3AUfkGWqdjWtOIzRYsvmJpyOKEJT5Lp2x+xWb+EQnZnI+ot5TQkN8hjxVWcEG6g4RWeWWnmaUQLD5vCFa2rBMXKJWUzTGPCjqUXIpNcZz47yMXD6OP4VAwPhsJ5vvxWDDu/SXBZi//D0BaY3BTNFRgjpXQaY9e0NavuUVcO/oegOjgXE7UhEN12zObg56n1t4La5PBMw9y5JEwOdBLlTqWyoAWpLbDe7w7653J/6f9n9IeP+JOIUtSlhxtKo7ZfNq4UzJnyfVIENvH1s2wLnWSEZ6by61Ygf6GG0UKG5NZIRGWj7gP4UXfwJq0qqyxdV38nVrDxPMuvCbgI6vpXGXQGt7uNHbad/Nj7OybiKd/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-05T08:21:38.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="RNpkV-u6yGoLMX_GaJDu" version="20.1.1" type="github">
+  <diagram id="FIQT3pwKjuodvygs0_mC" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bA3_Qh9jvu_0rKNAbHTe-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="114" y="141" width="603" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3_Qh9jvu_0rKNAbHTe-7" value="服务网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="356.5" y="139" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3_Qh9jvu_0rKNAbHTe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bA3_Qh9jvu_0rKNAbHTe-8" target="bA3_Qh9jvu_0rKNAbHTe-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3_Qh9jvu_0rKNAbHTe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bA3_Qh9jvu_0rKNAbHTe-8" target="bA3_Qh9jvu_0rKNAbHTe-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3_Qh9jvu_0rKNAbHTe-8" value="客户端" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="400.5" y="23" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5L_JWcabAk_taaHSs-1-1" value="Spring Cloud Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="169" width="136" height="43" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
