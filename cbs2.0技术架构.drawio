@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T10:36:31.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="eLJs6nRcJuQXLxpf7rCL" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T10:39:04.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="E6hkPsiypsyTPbVIH2fJ" version="20.1.1" type="github">
   <diagram id="u8wVJo2DQlOe6YBrgEo8" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="PVqRrBd7mPUw-DmsYHss-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="290" width="422.5" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="PVqRrBd7mPUw-DmsYHss-17" value="Nacos服务注册中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVqRrBd7mPUw-DmsYHss-17" value="Nacos服务注册中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVqRrBd7mPUw-DmsYHss-18" value="SpringCloud Alibaba" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
