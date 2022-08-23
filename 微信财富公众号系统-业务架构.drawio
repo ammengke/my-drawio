@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T05:42:20.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="Zh2bJjasp5pKUBvQM7f5" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T05:44:50.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="854F4AjwEe9Vie1IUSKT" version="20.2.4" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,10 +164,10 @@
           <mxGeometry x="855" y="583" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-39" value="开户" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="939" y="542" width="59" height="25" as="geometry" />
+          <mxGeometry x="589.5" y="439.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-40" value="个人中心" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="939" y="582" width="59" height="25" as="geometry" />
+          <mxGeometry x="670.5" y="439.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-41" value="资讯" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="444" y="627" width="59" height="25" as="geometry" />
@@ -210,6 +210,12 @@
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-54" value="新发基金" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="507.5" y="439.5" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zjK6YM6E4vPAOyXwSc66-55" value="开户" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="854" y="354.5" width="91" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zjK6YM6E4vPAOyXwSc66-56" value="个人中心" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="964" y="354.5" width="92" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
