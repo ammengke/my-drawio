@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T02:56:38.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="EeezLN9U2HqPCpYMHRel" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:03:52.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="WDPGekayFD12FeS903GF" version="20.2.4" type="github">
   <diagram id="q8BjieNyi9hWU5O5Hsln" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,16 +17,16 @@
           <mxGeometry x="478" y="148" width="72" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="181" y="229" width="560" height="304" as="geometry" />
+          <mxGeometry x="181" y="229" width="560" height="324" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;strokeColor=default;dashed=1;dashPattern=1 2;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="191" y="282.5" width="320" height="231.5" as="geometry" />
+          <mxGeometry x="191" y="282.5" width="320" height="253.5" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;dashed=1;dashPattern=1 2;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="525" y="282.5" width="96" height="232.5" as="geometry" />
+          <mxGeometry x="525" y="282.5" width="96" height="254.5" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#1A1A1A;dashed=1;dashPattern=1 2;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="633" y="282.5" width="95" height="232.5" as="geometry" />
+          <mxGeometry x="633" y="282.5" width="95" height="254.5" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-10" value="数据中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="183" y="229" width="60" height="30" as="geometry" />
@@ -41,64 +41,97 @@
           <mxGeometry x="650" y="291" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-17" value="认购" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="198.5" y="326" width="59" height="25" as="geometry" />
+          <mxGeometry x="198.5" y="329" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-19" value="申购" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="199.5" y="366" width="59" height="25" as="geometry" />
+          <mxGeometry x="199.5" y="369" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-20" value="定投" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="198.5" y="406" width="59" height="25" as="geometry" />
+          <mxGeometry x="198.5" y="409" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-21" value="撤单" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="199.5" y="441.5" width="59" height="25" as="geometry" />
+          <mxGeometry x="199.5" y="444.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-22" value="实时估值" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="199.5" y="480" width="59" height="25" as="geometry" />
+          <mxGeometry x="199.5" y="483" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-23" value="适当性" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="443" y="326" width="59" height="25" as="geometry" />
+          <mxGeometry x="443" y="329" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-24" value="风险等级" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="443" y="366" width="59" height="25" as="geometry" />
+          <mxGeometry x="443" y="369" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-25" value="CRS" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="443" y="406" width="59" height="25" as="geometry" />
+          <mxGeometry x="443" y="409" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-26" value="反洗钱" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="443" y="441.5" width="59" height="25" as="geometry" />
+          <mxGeometry x="443" y="444.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-27" value="风险留痕" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="443" y="480" width="59" height="25" as="geometry" />
+          <mxGeometry x="443" y="483" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-29" value="基金转换" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="326" width="59" height="25" as="geometry" />
+          <mxGeometry x="280" y="329" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-30" value="赎回" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280.5" y="366" width="59" height="25" as="geometry" />
+          <mxGeometry x="280.5" y="369" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-31" value="业绩走势" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="406" width="59" height="25" as="geometry" />
+          <mxGeometry x="280" y="409" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-32" value="交易规则" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280.5" y="441.5" width="59" height="25" as="geometry" />
+          <mxGeometry x="280.5" y="444.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-33" value="基金档案" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280.5" y="478" width="59" height="25" as="geometry" />
+          <mxGeometry x="280.5" y="481" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-34" value="资产配置" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="326" width="59" height="25" as="geometry" />
+          <mxGeometry x="362" y="329" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-35" value="基金公告" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="366" width="59" height="25" as="geometry" />
+          <mxGeometry x="362" y="369" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-36" value="基本信息" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="406" width="59" height="25" as="geometry" />
+          <mxGeometry x="362" y="409" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-37" value="基金经理" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="441.5" width="59" height="25" as="geometry" />
+          <mxGeometry x="362" y="444.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-38" value="同类排行" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="478" width="59" height="25" as="geometry" />
+          <mxGeometry x="362" y="481" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-40" value="合格投资者认证" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="329" width="59" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-41" value="开户" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652" y="329" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-42" value="开户" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652" y="329" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-43" value="个人中心" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652" y="369" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-44" value="资讯" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652" y="413" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-45" value="账户资产" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652" y="458" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-46" value="认购" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="372" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-47" value="申购" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="405" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-48" value="业绩走势" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="504" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-49" value="赎回" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="438" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-50" value="撤单" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="472" width="59" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
