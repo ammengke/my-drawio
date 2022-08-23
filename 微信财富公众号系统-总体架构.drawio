@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:28:10.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="_k0E-mwUU6y-9QHVS1gD" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:40:25.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="GUp4A3TQIURVsDH4RaeP" version="20.2.4" type="github">
   <diagram id="q8BjieNyi9hWU5O5Hsln" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,7 +263,7 @@
           <mxGeometry x="481" y="594" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-96" value="行情服务" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="562" y="593" width="59" height="25" as="geometry" />
+          <mxGeometry x="562" y="591" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-97" value="实时估值" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="648" y="594" width="59" height="25" as="geometry" />
