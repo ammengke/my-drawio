@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T05:48:53.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="h9E_mSV1umuPvtW-EOIs" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T05:50:57.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="w2KAXXbLoFB-eQbUQO4t" version="20.2.4" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="zjK6YM6E4vPAOyXwSc66-10" value="撤单" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="411" y="332" width="59" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="zjK6YM6E4vPAOyXwSc66-11" value="实时估值" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="zjK6YM6E4vPAOyXwSc66-11" value="净值估算" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="411" y="370.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-12" value="适当性" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
@@ -112,7 +112,7 @@
         <mxCell id="zjK6YM6E4vPAOyXwSc66-21" value="基金档案" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="492" y="368.5" width="59" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="zjK6YM6E4vPAOyXwSc66-22" value="资产配置" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="zjK6YM6E4vPAOyXwSc66-22" value="行业重仓" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="573.5" y="216.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-23" value="基金公告" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-58" value="新发基金" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="730" y="255.5" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zjK6YM6E4vPAOyXwSc66-59" value="投资分布" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="296.5" width="59" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
