@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T05:50:57.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="w2KAXXbLoFB-eQbUQO4t" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T05:52:06.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="LZJtgejzCOvDL2w2sOnh" version="20.2.4" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="836" y="130" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="370" y="519" width="720" height="170" as="geometry" />
+          <mxGeometry x="370" y="519" width="720" height="114" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="200" y="120" width="170" height="568" as="geometry" />
+          <mxGeometry x="200" y="120" width="170" height="513" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--25" value="三方服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#CFCEF5;" parent="1" vertex="1">
           <mxGeometry x="210" y="135" width="150" height="30" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="370" y="489" width="718" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--134" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1089" y="120" width="170" height="569" as="geometry" />
+          <mxGeometry x="1089" y="120" width="170" height="513" as="geometry" />
         </mxCell>
         <mxCell id="bQanzyuvM3PR-ToL9I3--135" value="辅助服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#CFCEF5;" parent="1" vertex="1">
           <mxGeometry x="1099" y="130" width="150" height="30" as="geometry" />
@@ -160,9 +160,6 @@
         <mxCell id="zjK6YM6E4vPAOyXwSc66-37" value="行情服务" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="769" y="583" width="59" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="zjK6YM6E4vPAOyXwSc66-38" value="实时估值" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="855" y="583" width="59" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-39" value="开户" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="573.5" y="439.5" width="59" height="25" as="geometry" />
         </mxCell>
@@ -170,10 +167,10 @@
           <mxGeometry x="654.5" y="439.5" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-41" value="资讯" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="444" y="627" width="59" height="25" as="geometry" />
+          <mxGeometry x="855" y="583" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-42" value="账户资产" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="522" y="627" width="59" height="25" as="geometry" />
+          <mxGeometry x="947" y="542" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-43" value="概要文件" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="411" y="407" width="59" height="25" as="geometry" />
