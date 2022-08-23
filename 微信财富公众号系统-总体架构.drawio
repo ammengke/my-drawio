@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:03:52.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="WDPGekayFD12FeS903GF" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:04:00.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="Sc0zP3se-GHXswLHGBkh" version="20.2.4" type="github">
   <diagram id="q8BjieNyi9hWU5O5Hsln" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
           <mxGeometry x="652" y="413" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-45" value="账户资产" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="652" y="458" width="59" height="25" as="geometry" />
+          <mxGeometry x="652" y="455" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-46" value="认购" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="542" y="372" width="59" height="25" as="geometry" />
