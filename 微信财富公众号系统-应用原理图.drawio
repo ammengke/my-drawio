@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T06:50:59.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="OVHbcxtkpm_fcC4hq7ml" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T11:52:58.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="HMBWRRUk_IHBBEJsF0Z-" version="20.2.4" type="github">
   <diagram id="m1QTSz76JV3wrc48F7tJ" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-10" value="发送指令" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ls6zuwG1NGYfX5sQQfwP-1" target="ls6zuwG1NGYfX5sQQfwP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-1" value="博易APP" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2" y="188" width="34" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-5" value="写入" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ls6zuwG1NGYfX5sQQfwP-2" target="ls6zuwG1NGYfX5sQQfwP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-11" value="调用恒生API" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ls6zuwG1NGYfX5sQQfwP-2" target="ls6zuwG1NGYfX5sQQfwP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-2" value="基金应用服务&lt;br&gt;（部署在本地）" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="124" y="186" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-3" value="恒生API" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="297" y="186" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="128.5" y="59" width="71" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-6" value="数据库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="132" y="26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-9" value="获取行情信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ls6zuwG1NGYfX5sQQfwP-8" target="ls6zuwG1NGYfX5sQQfwP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ls6zuwG1NGYfX5sQQfwP-8" value="行情数据源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="136.24" y="376" width="55.76" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
