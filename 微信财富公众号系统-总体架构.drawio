@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:12:41.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="MAqM4w2JmIxCIBeH0EOy" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:13:20.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="eGsbRB6E9nV8C5VoKQxM" version="20.2.4" type="github">
   <diagram id="q8BjieNyi9hWU5O5Hsln" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,6 +156,12 @@
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-59" value="稳定性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="758.5" y="233" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-60" value="监控" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=0.5;fillColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="759" y="267" width="59.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EBINEEiKZgLXmNo_69D4-61" value="告警通知" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=0.5;fillColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="759" y="306.5" width="59.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
