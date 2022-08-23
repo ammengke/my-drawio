@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:52:21.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="eLDMm21VnxpWxZWLptBh" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:53:59.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="rBccFht13kzfsUekNdCA" version="20.2.4" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,6 +204,12 @@
         </mxCell>
         <mxCell id="zjK6YM6E4vPAOyXwSc66-52" value="撤单" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="854" y="310" width="92" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zjK6YM6E4vPAOyXwSc66-53" value="基金自选" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="427" y="439.5" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zjK6YM6E4vPAOyXwSc66-54" value="新发基金" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="439.5" width="59" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
