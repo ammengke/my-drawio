@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T04:01:01.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="oeFgFwk7R7-XcVYz22TY" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T04:02:03.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="HEJr0nyR0-MTAQpB_xHQ" version="20.2.6" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1497" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,9 +123,6 @@
         </mxCell>
         <mxCell id="mJ2Si0FMy0EvRf1vYriI-27" value="实时估值" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="942" y="765" width="59" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="mJ2Si0FMy0EvRf1vYriI-28" value="资讯" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="858" y="765" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="mJ2Si0FMy0EvRf1vYriI-88" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="324" y="532" width="805" height="181" as="geometry" />
@@ -363,6 +360,9 @@
         </mxCell>
         <mxCell id="mJ2Si0FMy0EvRf1vYriI-131" value="公共模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="698" y="535.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Si0FMy0EvRf1vYriI-136" value="分布式JOB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="166" y="561" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
