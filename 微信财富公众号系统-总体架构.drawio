@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T05:50:17.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="Kf3maF_NyWYon8UYPan-" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T05:53:16.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="hWSkHGala_fAxPto9Js6" version="20.2.6" type="github">
   <diagram id="q8BjieNyi9hWU5O5Hsln" name="第 1 页">
     <mxGraphModel dx="2016" dy="1028" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,6 +216,9 @@
         </mxCell>
         <mxCell id="3R3b0LwCy844c2cJEZ-M-19" value="工资定存" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="3R3b0LwCy844c2cJEZ-M-9">
           <mxGeometry x="7.5" y="236" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="3R3b0LwCy844c2cJEZ-M-154" value="赎回转购" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="3R3b0LwCy844c2cJEZ-M-9">
+          <mxGeometry x="9.039999999999992" y="274" width="59" height="25" as="geometry" />
         </mxCell>
         <mxCell id="3R3b0LwCy844c2cJEZ-M-20" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="143" y="292" width="74" height="324" as="geometry" />
