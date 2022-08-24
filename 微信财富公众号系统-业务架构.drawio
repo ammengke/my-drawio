@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T07:37:22.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="0UrySUQyFwCCWTxTBAfs" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T07:50:16.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="KYg7NFRDkNt0vFmNJZNi" version="20.2.6" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1497" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -366,6 +366,12 @@
         </mxCell>
         <mxCell id="mJ2Si0FMy0EvRf1vYriI-148" value="基金自选" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="830" y="606" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Si0FMy0EvRf1vYriI-149" value="交易记录" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="959.5" y="430" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Si0FMy0EvRf1vYriI-150" value="推荐基金" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="959.5" y="470.5" width="59" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
