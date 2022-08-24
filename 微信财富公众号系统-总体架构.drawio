@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T03:37:10.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="IIS2UDh5zfCAPhRBj97Q" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T03:38:43.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="voVY_9_ZTNw91GB9KBOU" version="20.2.6" type="github">
   <diagram id="q8BjieNyi9hWU5O5Hsln" name="第 1 页">
-    <mxGraphModel dx="1980" dy="1006" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="751" y="254.5" width="96" height="254.5" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-10" value="数据中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="183" y="229" width="60" height="30" as="geometry" />
+          <mxGeometry x="424" y="229" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBINEEiKZgLXmNo_69D4-12" value="公募基金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="384" y="259" width="60" height="30" as="geometry" />
