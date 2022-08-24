@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T07:53:02.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="vtMjbRZL12wgTikw2kW4" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T07:53:15.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="UPHqsPKjy0YoKOG72iCV" version="20.2.6" type="github">
   <diagram id="PbEHLwvle0bfFOzdE0RF" name="第 1 页">
     <mxGraphModel dx="1497" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,10 +59,10 @@
           <mxGeometry x="939" y="147.5" width="178" height="491.5" as="geometry" />
         </mxCell>
         <mxCell id="mJ2Si0FMy0EvRf1vYriI-5" value="公募基金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="574" y="143" width="60" height="30" as="geometry" />
+          <mxGeometry x="574" y="163" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJ2Si0FMy0EvRf1vYriI-6" value="私募基金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1001" y="152" width="60" height="30" as="geometry" />
+          <mxGeometry x="1001" y="165" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJ2Si0FMy0EvRf1vYriI-8" value="开户" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="850" y="689" width="59" height="25" as="geometry" />
