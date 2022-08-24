@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T09:39:24.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="8VglfsG2_6t0krJNwanj" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T09:40:49.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="9YBfs7VHOkSlgubCCx_7" version="20.2.6" type="github">
   <diagram id="FFtLRq6kpSI4ZGspot21" name="第 1 页">
-    <mxGraphModel dx="1822" dy="905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-312" y="479" width="125" height="333" as="geometry" />
         </mxCell>
         <mxCell id="mLE344PUC3wgoO-I7Rjk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="427" width="1034" height="480" as="geometry" />
+          <mxGeometry x="-100" y="427" width="1034" height="489" as="geometry" />
         </mxCell>
         <mxCell id="q4_Ds_hNTsAd4L0cq3j5-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-80" y="438" width="239" height="300" as="geometry" />
@@ -49,10 +49,10 @@
         <mxCell id="mLE344PUC3wgoO-I7Rjk-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="q4_Ds_hNTsAd4L0cq3j5-20" target="mLE344PUC3wgoO-I7Rjk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q4_Ds_hNTsAd4L0cq3j5-20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="q4_Ds_hNTsAd4L0cq3j5-20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募Master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="261.25" y="807" width="58.5" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募&lt;br&gt;Slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="807" width="58.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mLE344PUC3wgoO-I7Rjk-13" value="公募App应用服务" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -102,22 +102,22 @@
         <mxCell id="mLE344PUC3wgoO-I7Rjk-49" value="nginx" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" vertex="1" parent="1">
           <mxGeometry x="516.25" y="497" width="49" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-51" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募APP服务A" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-51" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;私募APP服务A" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="454" y="600" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mLE344PUC3wgoO-I7Rjk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="mLE344PUC3wgoO-I7Rjk-53" target="mLE344PUC3wgoO-I7Rjk-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-53" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-53" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;私募Master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="762.25" y="807" width="58.5" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-54" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-54" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;私募&lt;br&gt;Slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="641" y="807" width="58.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mLE344PUC3wgoO-I7Rjk-55" value="私募App应用服务" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="472" y="442" width="137" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-57" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募APP服务B" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-57" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;私募APP服务B" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="581" y="600" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mLE344PUC3wgoO-I7Rjk-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mLE344PUC3wgoO-I7Rjk-58" target="mLE344PUC3wgoO-I7Rjk-53">
