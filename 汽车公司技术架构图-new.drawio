@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T05:18:20.879Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="qxaND3z88xO99JgwCdrY" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T08:56:33.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="BVeaM-mLJ96z33cdHaVc" version="20.2.6" type="github">
   <diagram id="NsUplz_uinZOCI7nmMil" name="Page-1">
-    <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="1305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,17 +160,14 @@
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-59" value="三方服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="480" y="255" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jRPfxaUJ6jdpRpEulSyn-60" value="支付" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="498.75" y="287" width="72.5" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-61" value="推送" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="498.75" y="319" width="72.5" height="26" as="geometry" />
+          <mxGeometry x="498.75" y="300" width="72.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-62" value="短信" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="498.75" y="353" width="72.5" height="26" as="geometry" />
+          <mxGeometry x="498.75" y="340" width="72.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-64" value="邮件" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="498.75" y="387" width="72.5" height="26" as="geometry" />
+          <mxGeometry x="498.75" y="380" width="72.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-65" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="499" y="419" width="72.5" height="26" as="geometry" />
@@ -319,7 +316,7 @@
         <mxCell id="heGB15kAMO9hl7v8kSQB-14" value="GitLab CI/CD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="664.25" y="52" width="72.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="eWxzJevqIBFPBqwUupoh-2" value="Spring Cloud Sleuth" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="eWxzJevqIBFPBqwUupoh-2" value="Spring Cloud Sleuth" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="286" y="424" width="89" height="28" as="geometry" />
         </mxCell>
       </root>
