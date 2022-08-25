@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T06:39:32.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="7GLy6S8aXY9s0N4B0v6d" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T06:47:55.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="94q-h0vxr76vJ1jMJT_E" version="20.2.7" type="github">
   <diagram id="-PGoqh9Ju3in_89Xq84S" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-1" target="LOjVgPiLCotEbvxlvxWn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-1" value="每周五汇总下周上线列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="75" width="88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-2" target="LOjVgPiLCotEbvxlvxWn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="418" y="-30" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-3" value="&lt;h1&gt;上线汇总&lt;/h1&gt;&lt;p&gt;每周五晚上下班前，测试将上线列表及上线内容整理发群里让产品确认，上线内容必须汇总开发修改内容及客户反馈待上线内容&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="38" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-4" target="LOjVgPiLCotEbvxlvxWn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-4" value="产品确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="178" width="88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-7" target="LOjVgPiLCotEbvxlvxWn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-7" target="LOjVgPiLCotEbvxlvxWn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-7" value="版本封版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="295" width="88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-8" value="&lt;h1&gt;版本封版&lt;/h1&gt;&lt;p&gt;开发于上线前一天将版本封版，正产封版后不允许再做任何修改。&lt;/p&gt;&lt;p&gt;如有特殊情况需要临时修改，需要项目经理评估风险，分为三种情况：&lt;/p&gt;&lt;p&gt;1.包含在本次版本中，上线时间不变&lt;/p&gt;&lt;p&gt;2.包含在本次版本中，推迟上线时间&lt;/p&gt;&lt;p&gt;3.上线时间不变，上线内容不变，安排在下个版本中迭代&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="175.25" width="190" height="284.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-11" target="LOjVgPiLCotEbvxlvxWn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-11" value="产品发送上线邮件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="430" width="88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-13" target="LOjVgPiLCotEbvxlvxWn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-13" value="上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="528" width="88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-15" target="LOjVgPiLCotEbvxlvxWn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-15" value="回归" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="626" width="88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="418" y="728" width="44" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
