@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T06:48:14.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="1ypGFCyaxvIE_RMWrLty" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T06:48:28.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="ojiRlJXl2JZwQ9BExT8b" version="20.2.7" type="github">
   <diagram id="-PGoqh9Ju3in_89Xq84S" name="第 1 页">
     <mxGraphModel dx="1422" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LOjVgPiLCotEbvxlvxWn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-1" target="LOjVgPiLCotEbvxlvxWn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOjVgPiLCotEbvxlvxWn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-1" target="LOjVgPiLCotEbvxlvxWn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-1" value="每周五汇总下周上线列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -17,7 +20,7 @@
           <mxGeometry x="418" y="-30" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-3" value="&lt;h1&gt;上线汇总&lt;/h1&gt;&lt;p&gt;每周五晚上下班前，测试将上线列表及上线内容整理发群里让产品确认，上线内容必须汇总开发修改内容及客户反馈待上线内容&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="597" y="38" width="190" height="120" as="geometry" />
+          <mxGeometry x="597" y="30" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-4" target="LOjVgPiLCotEbvxlvxWn-7">
           <mxGeometry relative="1" as="geometry" />
