@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T06:47:55.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="94q-h0vxr76vJ1jMJT_E" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T06:48:14.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="1ypGFCyaxvIE_RMWrLty" version="20.2.7" type="github">
   <diagram id="-PGoqh9Ju3in_89Xq84S" name="第 1 页">
     <mxGraphModel dx="1422" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,22 +41,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-11" value="产品发送上线邮件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396" y="430" width="88" height="45" as="geometry" />
+          <mxGeometry x="396" y="390" width="88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-13" target="LOjVgPiLCotEbvxlvxWn-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-13" value="上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396" y="528" width="88" height="45" as="geometry" />
+          <mxGeometry x="396" y="477" width="88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOjVgPiLCotEbvxlvxWn-15" target="LOjVgPiLCotEbvxlvxWn-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-15" value="回归" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396" y="626" width="88" height="45" as="geometry" />
+          <mxGeometry x="396" y="563" width="88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LOjVgPiLCotEbvxlvxWn-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="418" y="728" width="44" height="44" as="geometry" />
+          <mxGeometry x="418" y="649" width="44" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
