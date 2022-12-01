@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T02:38:33.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="NY6OWP9r1Ql-yJ6IEQ3e" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T05:37:48.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="0kr5cJMS8MKZ-HCyXwdw" version="20.5.1" type="github">
   <diagram id="5Tx3TCXnyt9OSKzZZrrE" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
             <mxPoint x="47" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="flxkLxOHi36lx1edua9F-1" value="PC Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#28A0FC;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="flxkLxOHi36lx1edua9F-1" value="Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#28A0FC;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="140" y="110" width="100" height="365" as="geometry" />
         </mxCell>
         <mxCell id="flxkLxOHi36lx1edua9F-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;strokeWidth=2;" parent="1" source="flxkLxOHi36lx1edua9F-2" target="flxkLxOHi36lx1edua9F-1" edge="1">
@@ -68,7 +68,7 @@
             <mxPoint x="47" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kJbNwsfXWiLktue-A7h8-4" value="PC Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#28A0FC;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="kJbNwsfXWiLktue-A7h8-4" value="Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#28A0FC;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129" y="604" width="100" height="365" as="geometry" />
         </mxCell>
         <mxCell id="kJbNwsfXWiLktue-A7h8-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;strokeWidth=2;" edge="1" parent="1" source="kJbNwsfXWiLktue-A7h8-7" target="kJbNwsfXWiLktue-A7h8-4">
