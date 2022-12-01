@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T02:28:00.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="rZ1sZwvjGOOqSEeX0WL8" version="20.5.1" type="github"><diagram id="5Tx3TCXnyt9OSKzZZrrE" name="第 1 页">5Vhdb+I4FP01fmyVb5JHEsLMSKy22j7s7KNLDGRqYmRMgfn1e+04JMaBkimVRrttVdnH147je+4910F+tj584Xiz+oMVhCLPKQ7InyDPcwPPQ/LPKY41Moo0sORlUUNOCzyXP4me2aC7siBbjdWQYIyKcmOCc1ZVZC4MDHPO9qbZgtHCADZ4SSzgeY6pjf5dFmJVo7E3avGvpFyumie7UVKPrHFjrN9ku8IF23cgP0d+xhkTdWt9yAiVh2eey/TC6GljnFTilgkLenidHf78WvoRPbik2OFk+hDovYlj88KkgPfXXcbFii1ZhWneoilnu6ogclUHeq3NjLENgC6AP4gQR+1MvBMMoJVYUz26YJXQg16o+xmjjKsd+FnmOFEEeIG3K/UcOWkrOHslHbMkl7+nkcY7cK6pfTT6tLZsx+fkynk0FMN8ScQVO01ieVidB+iD/0LYmgh+BANOKBblm0kmrDm5PNnpqWPO8bFjsGFlJbadlZ8kAAY6vPxIc0sHl+ecUWCYPTTqHTS9zqu0kKLVAIqF9SPfMN01x/CI8gjFLkoj1QhQPEV5KP8nLsoTFDtyFBrJBIGLwSb1URKiPEbjKUpHCnFR7PWyd4ZfIAkZjMO0XFbQngMhCPAnfSNclBDlYz2wLouiJjfZlj/xi1pP0lu7ABYPUxROTPa6vs3eeCp/e0l4LQLlhsjBoIlOaXozRtYwOKZnPTiP3sjXpz2MdxZRgpHBk4cmGzcrsMViC/FhcucubHEttjzBQk4qMzl47tzfkFQ3srlb01m5ILSspBM3hJewEenpCdXwU4ul+1UpyPMGq1SwB+Ey2QIHLzBM4ac+pXizLVtWcDLf8S2c71+SLg3KdkI+KTtJkQQXJaUdenjx2JlmffksmsfkZWETaqp+huU5i00XWeMGZkpwG1fvW7VzdZpwVh2l8534MqsMVgymgGO5+X1RAn+8nbTiwwp1o/LcmgruqVDejQrl/h4KlZwpTvKOQl23/xyFcu2k4z9KsUlBkAKpTEmqdOh/IUhN+N1FkVy/OZMPKtJDc5E4SdLZEp8nSZ7FjmcCyeY/IEanSvs3EaMg/mUxij5JjGLL+d8tv3e8ZUdn1/2tEnUJ8E78TqcO/NjOO3PFByLeG+yn0HRTkPS4yfZS4HySkxLLSd6jTNsp3CMi2RjnaOypu0assvUIjVPI3N+e1LVjjMaOaoBhKLN8mqqLCOR9WGCihiYq3UOuz1CcqbUTdX0BSUikmbSJ9YUmyZpZsLKrRCKXWiKNR7I9vLzpkQ5KFkJ6HzJHWS1nqqcCkVTFWH75gO4LZfNXqyACNvDjd72c6vyjR+5c9xhF2TAy3rlusfQkNDNNckbNugzTc1p2Di1/4t6nXCp+zrNfeKX2sV8o7J182mpdMFpvdC+R9K0QRHkgo0WG1khF1FTFhopKGYkTGQmtjbr+9xRQkJKEGQAmLyumVLabHDV0e43VJ8FmyFz6RNX3KauJ5J4vdMOvZ2f1cGAL4umjjimIg1MtdNuPkTUt2k+6fv4v</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-01T02:38:33.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="NY6OWP9r1Ql-yJ6IEQ3e" version="20.5.1" type="github">
+  <diagram id="5Tx3TCXnyt9OSKzZZrrE" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flxkLxOHi36lx1edua9F-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;fontColor=#CC0066;dashed=1;strokeColor=#9E9E9E;strokeWidth=2;" parent="1" source="flxkLxOHi36lx1edua9F-1" target="flxkLxOHi36lx1edua9F-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="200" />
+              <mxPoint x="360" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-5" value="1.发送接口调用请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#8F8F8F;" parent="flxkLxOHi36lx1edua9F-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.2735" relative="1" as="geometry">
+            <mxPoint x="47" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-1" value="PC Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#28A0FC;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="140" y="110" width="100" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;strokeWidth=2;" parent="1" source="flxkLxOHi36lx1edua9F-2" target="flxkLxOHi36lx1edua9F-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="376" y="361" />
+              <mxPoint x="376" y="361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-11" value="3.返回报文" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#8F8F8F;" parent="flxkLxOHi36lx1edua9F-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.1382" relative="1" as="geometry">
+            <mxPoint x="-22" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-2" value="Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#CC0066;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="110" width="100" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=13;fontColor=#FF0000;fillColor=#FFFFFF;strokeColor=#8F8F8F;" parent="flxkLxOHi36lx1edua9F-2" vertex="1">
+          <mxGeometry x="45" y="149" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-9" value="2.将web端传入的数据写入服务端" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;curved=1;" parent="flxkLxOHi36lx1edua9F-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="90" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="90" />
+              <mxPoint x="80" y="150" />
+            </Array>
+            <mxPoint x="55" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-3" value="传统数据传参" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0066;fontSize=25;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="190" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-1" value="明文参数示例：&lt;br&gt;{&lt;br&gt;&quot;name&quot;:&quot;张云琪&quot;,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;cardNo&quot;:&quot;32031519920105xxxx&quot;&lt;br&gt;}&lt;br&gt;参数传递过程中被拦截后很容易就到达篡改数据目的" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF351F;" vertex="1" parent="1">
+          <mxGeometry x="282" y="202" width="207" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;fontColor=#CC0066;dashed=1;strokeColor=#9E9E9E;strokeWidth=2;" edge="1" parent="1" source="kJbNwsfXWiLktue-A7h8-4" target="kJbNwsfXWiLktue-A7h8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="349" y="694" />
+              <mxPoint x="349" y="694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-3" value="1.发送接口调用请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#8F8F8F;" vertex="1" connectable="0" parent="kJbNwsfXWiLktue-A7h8-2">
+          <mxGeometry x="-0.2735" relative="1" as="geometry">
+            <mxPoint x="47" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-4" value="PC Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#28A0FC;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="129" y="604" width="100" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;strokeWidth=2;" edge="1" parent="1" source="kJbNwsfXWiLktue-A7h8-7" target="kJbNwsfXWiLktue-A7h8-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="855" />
+              <mxPoint x="365" y="855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-6" value="3.返回报文" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#8F8F8F;" vertex="1" connectable="0" parent="kJbNwsfXWiLktue-A7h8-5">
+          <mxGeometry x="-0.1382" relative="1" as="geometry">
+            <mxPoint x="-22" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-7" value="Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#CC0066;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="469" y="604" width="100" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=13;fontColor=#FF0000;fillColor=#FFFFFF;strokeColor=#8F8F8F;" vertex="1" parent="kJbNwsfXWiLktue-A7h8-7">
+          <mxGeometry x="45" y="149" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-9" value="2.将web端传入的数据写入服务端" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;curved=1;" edge="1" parent="kJbNwsfXWiLktue-A7h8-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="90" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="90" />
+              <mxPoint x="80" y="150" />
+            </Array>
+            <mxPoint x="55" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-10" value="加密数据传参" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0066;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="179" y="534" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-11" value="加密参数示例：&lt;br&gt;{&lt;br&gt;&quot;data&quot;:&quot;EUJAN238213445SKJRFKXXX&quot;&lt;br&gt;}&lt;br&gt;参数经过AES加密处理，即使非法拦截了请求，也无法进行数据篡改" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF351F;" vertex="1" parent="1">
+          <mxGeometry x="271" y="696" width="207" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-12" value="明文报文示例：&lt;br&gt;{&lt;br&gt;&quot;name&quot;:&quot;张云琪&quot;,&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;cardNo&quot;:&quot;32031519920105xxxx&quot;&lt;br&gt;}&lt;br&gt;报文被抓取后造成客户信息被盗取" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF351F;" vertex="1" parent="1">
+          <mxGeometry x="282" y="364" width="207" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kJbNwsfXWiLktue-A7h8-13" value="加密报文示例：&lt;br&gt;{&lt;br&gt;&quot;data&quot;:&quot;EUJAN238213445SKJRFKXXX&quot;&lt;br&gt;}&lt;br&gt;报文经过加密处理，即使被获取也无法得知客户信息，避免客户信息被抓取" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF351F;" vertex="1" parent="1">
+          <mxGeometry x="271" y="860" width="207" height="105" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
