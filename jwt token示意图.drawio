@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T01:48:02.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" version="20.5.1" etag="5_Gq3mJkBxqW3D0LWF2m" type="github"><diagram id="5Tx3TCXnyt9OSKzZZrrE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-01T02:03:20.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="Is7BDGav91De-Mgyg_YR" version="20.5.1" type="github">
+  <diagram id="5Tx3TCXnyt9OSKzZZrrE" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flxkLxOHi36lx1edua9F-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;fontColor=#CC0066;dashed=1;strokeColor=#9E9E9E;" edge="1" parent="1" source="flxkLxOHi36lx1edua9F-1" target="flxkLxOHi36lx1edua9F-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="200" />
+              <mxPoint x="360" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-5" value="1.发送带有用户名密码的post请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#8F8F8F;" vertex="1" connectable="0" parent="flxkLxOHi36lx1edua9F-4">
+          <mxGeometry x="-0.2735" relative="1" as="geometry">
+            <mxPoint x="47" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;" edge="1" parent="1" source="flxkLxOHi36lx1edua9F-1" target="flxkLxOHi36lx1edua9F-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="390" />
+              <mxPoint x="370" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-13" value="4.发送Header中携带jwt的请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#8F8F8F;" vertex="1" connectable="0" parent="flxkLxOHi36lx1edua9F-12">
+          <mxGeometry x="0.0735" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-1" value="Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#28A0FC;strokeColor=#6c8ebf;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="100" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;" edge="1" parent="1" source="flxkLxOHi36lx1edua9F-2" target="flxkLxOHi36lx1edua9F-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="290" />
+              <mxPoint x="390" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-11" value="3.将jwt存入cookie中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#8F8F8F;" vertex="1" connectable="0" parent="flxkLxOHi36lx1edua9F-10">
+          <mxGeometry x="-0.1382" relative="1" as="geometry">
+            <mxPoint x="-22" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;" edge="1" parent="1" source="flxkLxOHi36lx1edua9F-2" target="flxkLxOHi36lx1edua9F-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="480" />
+              <mxPoint x="370" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-17" value="6.返回响应信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#8F8F8F;" vertex="1" connectable="0" parent="flxkLxOHi36lx1edua9F-16">
+          <mxGeometry x="-0.1206" relative="1" as="geometry">
+            <mxPoint x="-20" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-2" value="Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#CC0066;strokeColor=#6c8ebf;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="100" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=13;fontColor=#8F8F8F;fillColor=#FFFFFF;strokeColor=#8F8F8F;" vertex="1" parent="flxkLxOHi36lx1edua9F-2">
+          <mxGeometry x="45" y="149" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-9" value="2.验证通过后生成jwt，&lt;br&gt;并以jwt为key，用户信息为value存储至redis" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;curved=1;" edge="1" parent="flxkLxOHi36lx1edua9F-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="90" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="90" />
+              <mxPoint x="80" y="150" />
+            </Array>
+            <mxPoint x="55" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=13;fontColor=#8F8F8F;fillColor=#FFFFFF;strokeColor=#8F8F8F;" vertex="1" parent="flxkLxOHi36lx1edua9F-2">
+          <mxGeometry x="47" y="340" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-15" value="5.验证jwt通过后获取用户信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;strokeColor=#9E9E9E;fontSize=13;fontColor=#8F8F8F;curved=1;" edge="1" parent="flxkLxOHi36lx1edua9F-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="52" y="281" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="82" y="281" />
+              <mxPoint x="82" y="341" />
+            </Array>
+            <mxPoint x="57" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flxkLxOHi36lx1edua9F-3" value="基于JWT的token身份认证方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0066;fontSize=25;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
