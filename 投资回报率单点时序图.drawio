@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T06:22:13.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SL1bbSv0QhTHTuBjw7x6" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T06:24:53.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VnN4HeF3kDUDMBy2TTiv" version="21.0.4" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="tFN0skg3fEce80HwhT8k-1" value="报价系统门户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="250" y="125" width="100" height="445" as="geometry" />
         </mxCell>
-        <mxCell id="tFN0skg3fEce80HwhT8k-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="tFN0skg3fEce80HwhT8k-1">
-          <mxGeometry x="55" y="75" width="10" height="40" as="geometry" />
+        <mxCell id="tFN0skg3fEce80HwhT8k-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tFN0skg3fEce80HwhT8k-1">
+          <mxGeometry x="45" y="75" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tFN0skg3fEce80HwhT8k-6" value="1.登录返回token信息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="tFN0skg3fEce80HwhT8k-5" parent="tFN0skg3fEce80HwhT8k-1">
           <mxGeometry relative="1" as="geometry">
@@ -19,7 +19,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tFN0skg3fEce80HwhT8k-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tFN0skg3fEce80HwhT8k-1">
-          <mxGeometry x="45" y="185" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="220" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tFN0skg3fEce80HwhT8k-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tFN0skg3fEce80HwhT8k-1">
+          <mxGeometry x="45" y="155" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tFN0skg3fEce80HwhT8k-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tFN0skg3fEce80HwhT8k-2">
           <mxGeometry relative="1" as="geometry">
@@ -47,19 +50,22 @@
             <mxPoint x="55" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tFN0skg3fEce80HwhT8k-9" value="2.携带token跳转子系统" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="tFN0skg3fEce80HwhT8k-8" parent="1">
+        <mxCell id="tFN0skg3fEce80HwhT8k-9" value="2.携带token跳转子系统" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="tFN0skg3fEce80HwhT8k-8" parent="1" source="tFN0skg3fEce80HwhT8k-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tFN0skg3fEce80HwhT8k-12" value="携带AppId、AppSecret和token" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="tFN0skg3fEce80HwhT8k-11" parent="1">
+        <mxCell id="tFN0skg3fEce80HwhT8k-12" value="携带AppId、AppSecret和token" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="tFN0skg3fEce80HwhT8k-11" parent="1" source="tFN0skg3fEce80HwhT8k-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="330" as="sourcePoint" />
+            <mxPoint x="570" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tFN0skg3fEce80HwhT8k-13" value="返回认证结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" source="tFN0skg3fEce80HwhT8k-11" parent="1">
+        <mxCell id="tFN0skg3fEce80HwhT8k-13" value="返回认证结果" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" source="tFN0skg3fEce80HwhT8k-11" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="405" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="398" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tFN0skg3fEce80HwhT8k-15" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;报价系统提前分配三方系统&lt;br&gt;AppId和AppSecret&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
