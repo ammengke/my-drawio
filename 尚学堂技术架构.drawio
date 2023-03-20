@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T03:17:19.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S9MhwYCK3Zw7wbADP4yv" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T03:18:03.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sHtBXWu4tkgxc1WbMUvz" version="21.0.4" type="github">
   <diagram id="u8wVJo2DQlOe6YBrgEo8" name="第 1 页">
     <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,6 +118,9 @@
         </mxCell>
         <mxCell id="PwBGRIlCVXF5lrzl0t3U-1" value="阿里云视频点播" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="396.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwBGRIlCVXF5lrzl0t3U-2" value="Druid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="307" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
