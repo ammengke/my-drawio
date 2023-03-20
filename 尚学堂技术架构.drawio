@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T03:16:53.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tb0ZA9P50h6zMDOiZ9Qw" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T03:17:19.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S9MhwYCK3Zw7wbADP4yv" version="21.0.4" type="github">
   <diagram id="u8wVJo2DQlOe6YBrgEo8" name="第 1 页">
     <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="hQAY4YPMy0V7uSDmqReH-17" value="Spring" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="307" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hQAY4YPMy0V7uSDmqReH-18" value="Spring Cloud Fegin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hQAY4YPMy0V7uSDmqReH-18" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="307" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PwBGRIlCVXF5lrzl0t3U-1" value="阿里云视频点播" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
