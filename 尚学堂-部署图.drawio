@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T05:51:56.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IUNRD2HnT75fwUCjTRZW" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T05:56:04.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RglslH3rM_yYpsTWA_ZZ" version="21.0.4" type="github">
   <diagram id="FFtLRq6kpSI4ZGspot21" name="第 1 页">
     <mxGraphModel dx="1834" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,29 +28,14 @@
         <mxCell id="q4_Ds_hNTsAd4L0cq3j5-3" value="防火墙" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
           <mxGeometry x="382.75" y="343" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q4_Ds_hNTsAd4L0cq3j5-6" target="q4_Ds_hNTsAd4L0cq3j5-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="q4_Ds_hNTsAd4L0cq3j5-6" target="mLE344PUC3wgoO-I7Rjk-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q4_Ds_hNTsAd4L0cq3j5-6" value="nginx" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" parent="1" vertex="1">
-          <mxGeometry x="254.25" y="696" width="49" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="q4_Ds_hNTsAd4L0cq3j5-10" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募APP服务" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="192" y="799" width="50" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="q4_Ds_hNTsAd4L0cq3j5-20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;私募数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="535.25" y="972" width="58.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="mLE344PUC3wgoO-I7Rjk-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募数据库&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="254.25" y="969" width="58.5" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-13" value="服务器-主" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="641" width="137" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mLE344PUC3wgoO-I7Rjk-15" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募管理端服务" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="319" y="799" width="50" height="48" as="geometry" />
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="436" y="619" width="239" height="301" as="geometry" />
         </mxCell>
         <mxCell id="mLE344PUC3wgoO-I7Rjk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mLE344PUC3wgoO-I7Rjk-49" target="mLE344PUC3wgoO-I7Rjk-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,9 +58,6 @@
         <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCf7Fhr1Hl3SMTkNYIqJ-2" target="mLE344PUC3wgoO-I7Rjk-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCf7Fhr1Hl3SMTkNYIqJ-2" target="mLE344PUC3wgoO-I7Rjk-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-2" value="服务负载服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" parent="1" vertex="1">
           <mxGeometry x="377" y="497" width="80" height="80" as="geometry" />
         </mxCell>
@@ -87,6 +69,30 @@
         </mxCell>
         <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-11" value="阿里OSS" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Storage_Unit_Large.svg;" parent="1" vertex="1">
           <mxGeometry x="-239" y="764" width="76.8" height="79.2" as="geometry" />
+        </mxCell>
+        <mxCell id="Fc3GIRMif8kVISrUfIOn-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="159.25" y="619" width="239" height="301" as="geometry" />
+        </mxCell>
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q4_Ds_hNTsAd4L0cq3j5-6" target="q4_Ds_hNTsAd4L0cq3j5-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="q4_Ds_hNTsAd4L0cq3j5-6" target="mLE344PUC3wgoO-I7Rjk-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4_Ds_hNTsAd4L0cq3j5-6" value="nginx" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" parent="1" vertex="1">
+          <mxGeometry x="254.25" y="696" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q4_Ds_hNTsAd4L0cq3j5-10" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募APP服务" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
+          <mxGeometry x="192" y="799" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-13" value="服务器-主" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="641" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mLE344PUC3wgoO-I7Rjk-15" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;公募管理端服务" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
+          <mxGeometry x="319" y="799" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCf7Fhr1Hl3SMTkNYIqJ-2" target="mLE344PUC3wgoO-I7Rjk-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
