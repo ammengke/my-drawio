@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T06:01:33.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="v-r886fJlDJEWP5RKnsa" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T06:04:42.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZPH24u39_5M4gAizd7RU" version="21.0.4" type="github">
   <diagram id="FFtLRq6kpSI4ZGspot21" name="第 1 页">
     <mxGraphModel dx="1834" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fCf7Fhr1Hl3SMTkNYIqJ-2" target="mLE344PUC3wgoO-I7Rjk-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-2" value="服务负载服务器" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" parent="1" vertex="1">
+        <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-2" value="服务负载服务器&amp;amp;Redis" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" parent="1" vertex="1">
           <mxGeometry x="377" y="497" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCf7Fhr1Hl3SMTkNYIqJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="fCf7Fhr1Hl3SMTkNYIqJ-8" target="fCf7Fhr1Hl3SMTkNYIqJ-11" edge="1">
