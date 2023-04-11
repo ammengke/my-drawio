@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T03:21:42.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_na0n6uY7hmlpjnKUsXn" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T02:11:02.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sos0Y_5uLzvTFn7HIyCb" version="21.1.5" type="github">
   <diagram id="u8wVJo2DQlOe6YBrgEo8" name="第 1 页">
-    <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,17 +116,20 @@
         <mxCell id="hQAY4YPMy0V7uSDmqReH-18" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="307" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PwBGRIlCVXF5lrzl0t3U-1" value="阿里云视频点播" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PwBGRIlCVXF5lrzl0t3U-1" value="阿里云视频点播" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="396.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PwBGRIlCVXF5lrzl0t3U-2" value="Druid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PwBGRIlCVXF5lrzl0t3U-2" value="Druid" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="307" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PwBGRIlCVXF5lrzl0t3U-3" value="阿里防盗链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PwBGRIlCVXF5lrzl0t3U-3" value="阿里防盗链" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="307" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PwBGRIlCVXF5lrzl0t3U-4" value="阿里DRM加密" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PwBGRIlCVXF5lrzl0t3U-4" value="阿里DRM加密" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="558" y="197" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NpwOEbF9Zqj8hGF3ebk-1" value="MinIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="252" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
