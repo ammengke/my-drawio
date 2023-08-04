@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T02:39:39.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8tBNXoF1yGxOwfUJD6HU" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T02:40:10.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jy2SdMHx8C_MfqFdkiC2" version="21.6.6" type="github">
   <diagram name="第 1 页" id="KX3Jd0_kvh_tnPCaIOLx">
     <mxGraphModel dx="2261" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
         <mxCell id="U5FtNi8npd5qvVz8V4rA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-26" target="U5FtNi8npd5qvVz8V4rA-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U5FtNi8npd5qvVz8V4rA-26" value="正在服务人数小于5人" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-26" value="正在服务人数小于5人" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="140.5" y="490" width="99" height="100" as="geometry" />
         </mxCell>
         <mxCell id="U5FtNi8npd5qvVz8V4rA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-27" target="U5FtNi8npd5qvVz8V4rA-29">
