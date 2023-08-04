@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T02:31:23.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="S4KJQqbagHbe29SjfTb3" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T02:38:56.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bgua2QIv0WecoqKSD1eA" version="21.6.6" type="github">
   <diagram name="第 1 页" id="KX3Jd0_kvh_tnPCaIOLx">
     <mxGraphModel dx="2261" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,129 @@
         </mxCell>
         <mxCell id="U5FtNi8npd5qvVz8V4rA-70" value="工作时间段，有多个客服" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="89.5" y="914" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-72" target="U5FtNi8npd5qvVz8V4rA-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="857.75" y="974" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-74" target="U5FtNi8npd5qvVz8V4rA-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="882.5" y="1345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="1104" width="480" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-75" value="客服A&lt;br&gt;最大接入数&lt;font color=&quot;#ff0000&quot;&gt; 5 &lt;/font&gt;人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="1125" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-78" target="U5FtNi8npd5qvVz8V4rA-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-78" target="U5FtNi8npd5qvVz8V4rA-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-78" value="自动接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="822.75" y="1364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="857.75" y="1474" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-80" value="客服B&lt;br&gt;最大接入数&lt;font color=&quot;#ff0000&quot;&gt; 5 &lt;/font&gt;人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="782.5" y="1125" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-81" value="客服C&lt;br&gt;最大接入数&lt;font color=&quot;#ff0000&quot;&gt; 5 &lt;/font&gt;人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="1125" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-82" value="客服D&lt;br&gt;最大接入数&lt;font color=&quot;#ff0000&quot;&gt; 5 &lt;/font&gt;人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1002.5" y="1125" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-83" value="正在服务人数：&lt;font color=&quot;#ff0000&quot;&gt;3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="1218" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-84" value="正在服务人数：&lt;font color=&quot;#ff0000&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1218" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-85" value="正在服务人数：&lt;font color=&quot;#ff0000&quot;&gt;2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="863" y="1218" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-86" value="正在服务人数：&lt;font color=&quot;#ff0000&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="972.5" y="1218" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-87" value="&lt;h1&gt;接入逻辑说明&lt;/h1&gt;&lt;p&gt;按照空闲比例取最空闲的客服接入。&lt;/p&gt;&lt;p&gt;空闲比例=正在服务人数/最大接入人数&lt;/p&gt;&lt;p&gt;如果比例相同则取其中一个，例如客服B和客服D空闲比例相同，取他俩其中一个接入客户。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1301" width="190" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-88" value="工作时间段，有多个客服且空闲" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="782" y="914" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-90" target="U5FtNi8npd5qvVz8V4rA-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="107.75" y="1650" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-92" target="U5FtNi8npd5qvVz8V4rA-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-107.5" y="1780" width="480" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-93" value="客服A&lt;br&gt;最大接入数&lt;font color=&quot;#ff0000&quot;&gt; 5 &lt;/font&gt;人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-77.5" y="1801" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-98" value="客服B&lt;br&gt;最大接入数&lt;font color=&quot;#ff0000&quot;&gt; 5 &lt;/font&gt;人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="1801" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-99" value="客服C&lt;br&gt;最大接入数&lt;font color=&quot;#ff0000&quot;&gt; 5 &lt;/font&gt;人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="1801" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-100" value="客服D&lt;br&gt;最大接入数&lt;font color=&quot;#ff0000&quot;&gt; 5 &lt;/font&gt;人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="1801" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-101" value="正在服务人数：&lt;font color=&quot;#ff0000&quot;&gt;5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-107.5" y="1894" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-102" value="正在服务人数：&lt;font color=&quot;#ff0000&quot;&gt;5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1894" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-103" value="正在服务人数：&lt;font color=&quot;#ff0000&quot;&gt;5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="1894" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-104" value="正在服务人数：&lt;font color=&quot;#ff0000&quot;&gt;5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="1894" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-106" value="工作时间段，有多个客服且均繁忙" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="32" y="1590" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="106.72" y="2310" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-115" target="U5FtNi8npd5qvVz8V4rA-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-115" target="U5FtNi8npd5qvVz8V4rA-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-115" value="排队等候进入待接入列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71.72" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-117" target="U5FtNi8npd5qvVz8V4rA-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-117" value="空闲时自动接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71.72" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U5FtNi8npd5qvVz8V4rA-119" target="U5FtNi8npd5qvVz8V4rA-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="2335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5FtNi8npd5qvVz8V4rA-119" value="客服手动接入，最大接入人数自动+1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="251.72" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
