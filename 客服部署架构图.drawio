@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T02:38:16.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="AXpVFCE68mLg5guTgb6M" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T02:44:51.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1cn79g8Wa2ydb8K3RvZp" version="21.8.2" type="github">
   <diagram name="第 1 页" id="cUeSnqwoEKw-XSXRfaBt">
     <mxGraphModel dx="2261" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="-80" y="372" width="190" height="219" as="geometry" />
         </mxCell>
         <mxCell id="ugzp6V2DVJSi0lXBUaWw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="750" y="372" width="110" height="400" as="geometry" />
+          <mxGeometry x="750" y="363" width="190" height="428" as="geometry" />
         </mxCell>
         <mxCell id="ugzp6V2DVJSi0lXBUaWw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;strokeColor=#618EE8;" edge="1" parent="1" source="ugzp6V2DVJSi0lXBUaWw-3" target="ugzp6V2DVJSi0lXBUaWw-20">
           <mxGeometry relative="1" as="geometry" />
@@ -71,6 +71,18 @@
           <mxGeometry x="-0.2756" relative="1" as="geometry">
             <mxPoint x="6" y="-29" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-23" value="客户端归属地服务&lt;br&gt;AI服务&lt;br&gt;58.34.1.99:443" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-24" value="短信服务（以期货公司实际地址为准）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="760" y="471" width="170" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-25" value="智能外呼服务&lt;br&gt;58.34.1.100:2500" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="760" y="561" width="170" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-26" value="通讯服务&lt;br&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;GLyRdarG7onrMtxvGdgcHrfInHd&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-U1FUdpCsXoT3UgxNc9McnvPsnXc&quot; style=&quot;&quot;&gt;a1.easemob.com:443&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="760" y="650" width="170" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
