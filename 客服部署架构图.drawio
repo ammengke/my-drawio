@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T02:34:44.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2_mOB6qkiR-tJpeMxnH8" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T02:38:16.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="AXpVFCE68mLg5guTgb6M" version="21.8.2" type="github">
   <diagram name="第 1 页" id="cUeSnqwoEKw-XSXRfaBt">
     <mxGraphModel dx="2261" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,13 +43,13 @@
         <mxCell id="ugzp6V2DVJSi0lXBUaWw-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#618EE8;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="150" y="660" width="529" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ugzp6V2DVJSi0lXBUaWw-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-14" value="mysql数据库" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
           <mxGeometry x="283" y="690" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ugzp6V2DVJSi0lXBUaWw-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-15" value="Redis" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="393" y="690" width="56" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ugzp6V2DVJSi0lXBUaWw-16" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_apache_cassandra_service;" vertex="1" parent="1">
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-16" value="MongoDB" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_apache_cassandra_service;" vertex="1" parent="1">
           <mxGeometry x="520" y="690" width="57" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ugzp6V2DVJSi0lXBUaWw-17" value="数据服务器：192.168.10.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#618EE8;" vertex="1" parent="1">
@@ -58,8 +58,19 @@
         <mxCell id="ugzp6V2DVJSi0lXBUaWw-18" value="应用服务器：192.168.10.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#618EE8;" vertex="1" parent="1">
           <mxGeometry x="150" y="371" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ugzp6V2DVJSi0lXBUaWw-19" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;&lt;b&gt;应用服务器与数据服务器内网互通&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;应用服务器硬件要求：内存至少8G，硬盘200G&lt;/p&gt;&lt;p&gt;数据服务器：内存至少8G，硬盘300G&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="401" width="190" height="159" as="geometry" />
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-19" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. 应用服务器与数据服务器内网互通&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. 应用服务器硬件要求：内存至少8G，硬盘200G&lt;/p&gt;&lt;p&gt;3. 数据服务器：内存至少8G，硬盘300G&lt;/p&gt;&lt;p&gt;4. 应用服务器需要开通指定网络出站权限&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="372" width="190" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="750" y="372" width="110" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;strokeColor=#618EE8;" edge="1" parent="1" source="ugzp6V2DVJSi0lXBUaWw-3" target="ugzp6V2DVJSi0lXBUaWw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugzp6V2DVJSi0lXBUaWw-22" value="出站访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ugzp6V2DVJSi0lXBUaWw-21">
+          <mxGeometry x="-0.2756" relative="1" as="geometry">
+            <mxPoint x="6" y="-29" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
