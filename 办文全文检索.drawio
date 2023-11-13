@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T05:52:35.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yuLnUgegFO3NMn-1EvC1" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T05:55:35.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="HKbjROwMFxbdjEBCFz6o" version="22.1.0" type="github">
   <diagram name="第 1 页" id="LdHHr-EjlGBkQb0S6M5a">
     <mxGraphModel dx="1434" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,7 +243,7 @@
         <mxCell id="TpiHtZoOnFScd-ey19ek-58" value="来源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1930" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TpiHtZoOnFScd-ey19ek-59" value="内容：关于结案的情况，以下将做详细阐述" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TpiHtZoOnFScd-ey19ek-59" value="内容：关于&lt;font color=&quot;#ff0000&quot;&gt;结案&lt;/font&gt;的情况，以下将做详细阐述" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1960" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TpiHtZoOnFScd-ey19ek-60" value="标签1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -261,7 +261,7 @@
         <mxCell id="TpiHtZoOnFScd-ey19ek-64" value="来源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="2080" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TpiHtZoOnFScd-ey19ek-65" value="内容：关于结案的情况，以下将做详细阐述" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TpiHtZoOnFScd-ey19ek-65" value="内容：关于&lt;font color=&quot;#ff0000&quot;&gt;结案&lt;/font&gt;的情况，以下将做详细阐述" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="2110" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TpiHtZoOnFScd-ey19ek-66" value="标签1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -275,6 +275,39 @@
         </mxCell>
         <mxCell id="TpiHtZoOnFScd-ey19ek-69" value="作者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="1930" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="2600" width="718" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="2600" width="548" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="2600" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-73" value="附件清单" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="622" y="2610" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-74" value="附件 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TpiHtZoOnFScd-ey19ek-73">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-75" value="附件 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TpiHtZoOnFScd-ey19ek-73">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-76" value="附件 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TpiHtZoOnFScd-ey19ek-73">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-77" value="相关文档" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="622" y="2740" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-78" value="文档 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TpiHtZoOnFScd-ey19ek-77">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-79" value="文档 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TpiHtZoOnFScd-ey19ek-77">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-80" value="文档 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TpiHtZoOnFScd-ey19ek-77">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
