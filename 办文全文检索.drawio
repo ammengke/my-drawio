@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T02:44:06.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6FHv0bSVte_1ZgS5ocmF" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T02:48:12.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WzeyLcag0_y2OM5L2lbx" version="22.1.0" type="github">
   <diagram name="第 1 页" id="LdHHr-EjlGBkQb0S6M5a">
     <mxGraphModel dx="1434" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,8 +113,13 @@
         <mxCell id="TpiHtZoOnFScd-ey19ek-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TpiHtZoOnFScd-ey19ek-2" target="TpiHtZoOnFScd-ey19ek-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="1620" />
+              <mxPoint x="270" y="1620" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-9" value="传入token及系统唯一编号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="TpiHtZoOnFScd-ey19ek-7">
+          <mxGeometry x="-0.2336" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TpiHtZoOnFScd-ey19ek-2" value="A系统&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -123,8 +128,67 @@
         <mxCell id="TpiHtZoOnFScd-ey19ek-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TpiHtZoOnFScd-ey19ek-4" target="TpiHtZoOnFScd-ey19ek-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-16" value="传入token及系统唯一编号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="TpiHtZoOnFScd-ey19ek-8">
+          <mxGeometry x="-0.2261" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TpiHtZoOnFScd-ey19ek-4" value="B系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TpiHtZoOnFScd-ey19ek-6" target="TpiHtZoOnFScd-ey19ek-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="1680" />
+              <mxPoint x="170" y="1680" />
+              <mxPoint x="170" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-11" value="携带token调用A系统令牌认证服务&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TpiHtZoOnFScd-ey19ek-10">
+          <mxGeometry x="-0.3223" y="1" relative="1" as="geometry">
+            <mxPoint x="-40" y="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="273" y="1620" as="sourcePoint" />
+            <mxPoint x="229" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="229" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-18" value="响应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TpiHtZoOnFScd-ey19ek-12">
+          <mxGeometry x="0.2897" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TpiHtZoOnFScd-ey19ek-6" target="TpiHtZoOnFScd-ey19ek-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="1680" />
+              <mxPoint x="554" y="1680" />
+              <mxPoint x="554" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-14" value="携带token调用B系统令牌认证服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TpiHtZoOnFScd-ey19ek-13">
+          <mxGeometry x="0.096" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TpiHtZoOnFScd-ey19ek-6" target="TpiHtZoOnFScd-ey19ek-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-17" value="响应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TpiHtZoOnFScd-ey19ek-15">
+          <mxGeometry x="0.2143" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TpiHtZoOnFScd-ey19ek-6" value="全文检索服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="1580" width="120" height="80" as="geometry" />
