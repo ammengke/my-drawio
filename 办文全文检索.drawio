@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T05:57:36.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="x0u6a0ZoBZEn6Vuan2gF" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T06:00:22.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="TzrDWZjIBjlqBY3Sqt3f" version="22.1.0" type="github">
   <diagram name="第 1 页" id="LdHHr-EjlGBkQb0S6M5a">
     <mxGraphModel dx="1434" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,6 +314,24 @@
         </mxCell>
         <mxCell id="TpiHtZoOnFScd-ey19ek-83" value="石家庄（1）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="96" y="2180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-84" value="标题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2610" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-85" value="发布时间：2023年11月11日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81" y="2650" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-86" value="消息来源：xxx系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="236" y="2650" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-87" value="作者：王平贵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="376" y="2651" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2749" width="440" height="391" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-89" value="详细文本内容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="255" y="2929.5" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
