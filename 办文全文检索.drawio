@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T02:48:12.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WzeyLcag0_y2OM5L2lbx" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T05:36:23.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="aZPFP3tQTarEW7fW9NHp" version="22.1.0" type="github">
   <diagram name="第 1 页" id="LdHHr-EjlGBkQb0S6M5a">
     <mxGraphModel dx="1434" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,44 @@
         </mxCell>
         <mxCell id="TpiHtZoOnFScd-ey19ek-6" value="全文检索服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="1580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="62" y="1730" width="858" height="858" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="1830" width="168" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="1830" width="514" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-23" value="结案说明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="1754" width="468" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-24" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1754" width="60" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-27" value="时间筛选" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1850" width="150" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-28" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="TpiHtZoOnFScd-ey19ek-27">
+          <mxGeometry x="1" y="0.5" width="18" height="18" relative="1" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-29" value="全文检索系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="62" y="1741" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1920" width="149" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-31" value="来源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="116.5" y="1920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="2110" width="149" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="TpiHtZoOnFScd-ey19ek-33" value="标签" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
