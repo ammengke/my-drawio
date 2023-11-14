@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T11:24:13.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="oc__3HDQ7qW5b00y0D-n" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T12:07:36.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="z5IcK-kZygGK44sxm1Eg" version="22.1.0" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="2P2owlu64sQ_AZG2neIO-9" value="AI机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="295" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2owlu64sQ_AZG2neIO-10" value="智能外呼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="294.5" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
