@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T12:11:06.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rh00eTC2IwLmftdG0irq" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T12:13:11.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5tQk00ShWYPlXRsZTStZ" version="22.1.0" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
     <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,6 +312,12 @@
         </mxCell>
         <mxCell id="2P2owlu64sQ_AZG2neIO-13" value="公私库匹配统计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="532" y="160" width="61" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2owlu64sQ_AZG2neIO-14" value="短信服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="294.5" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2P2owlu64sQ_AZG2neIO-15" value="邮件服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="294.5" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
