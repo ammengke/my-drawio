@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T06:09:18.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BYtHKOsS1CQYA4ZNJDKF" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T06:14:20.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VvpQtpXHO21xcx92xNBy" version="22.1.0" type="github">
   <diagram name="第 1 页" id="k6bWC8IlYyiT_uQ4D0yM">
     <mxGraphModel dx="1434" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,6 +189,36 @@
         </mxCell>
         <mxCell id="FXBnlz-k-0m6f4a4qK0G-69" value="客服设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="391" y="594" width="56" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="640" width="347" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-71" value="本地存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="144" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="640" width="141" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-73" value="云存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="493" y="637" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-74" value="公有云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="658" width="71" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-75" value="私有云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="658" width="71" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-76" value="MySql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="664" width="56" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-77" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.5" y="664" width="56" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-78" value="MongoDB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="664" width="56" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="FXBnlz-k-0m6f4a4qK0G-79" value="日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="664" width="56" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
