@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:42:59.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NN3Gx6puXRaOsflr8zjs" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T09:07:12.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="m0WQKP71GZQaYY2jB7n9" version="22.1.1" type="github">
   <diagram name="第 1 页" id="Q9_ftTSuvAhSZoT1OBxX">
     <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,12 +103,39 @@
         <mxCell id="kSfSqJHf9zPPa1y90TGo-42" value="安全策略" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="810" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSfSqJHf9zPPa1y90TGo-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;startWidth=12;startSize=3.33;endWidth=12;endSize=3.33;" edge="1" parent="1">
+        <mxCell id="kSfSqJHf9zPPa1y90TGo-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;startWidth=12;startSize=2;endWidth=12;endSize=2;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="563" y="82" as="sourcePoint" />
             <mxPoint x="563" y="42" as="targetPoint" />
             <Array as="points">
               <mxPoint x="563" y="62" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSfSqJHf9zPPa1y90TGo-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="80" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="kSfSqJHf9zPPa1y90TGo-50" value="监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSfSqJHf9zPPa1y90TGo-52" value="Sentinel&lt;br&gt;熔断限流" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="450" y="87" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSfSqJHf9zPPa1y90TGo-53" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;startWidth=12;startSize=2;endWidth=12;endSize=2;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="714.5" y="82" as="sourcePoint" />
+            <mxPoint x="714.5" y="42" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="714.5" y="62" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSfSqJHf9zPPa1y90TGo-54" value="" style="shape=flexArrow;endArrow=classic;startArrow=block;html=1;rounded=0;startWidth=12;startSize=2;endWidth=12;endSize=2;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="850" y="81" as="sourcePoint" />
+            <mxPoint x="850" y="41" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="61" />
             </Array>
           </mxGeometry>
         </mxCell>
