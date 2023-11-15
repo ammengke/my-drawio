@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T02:58:27.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lEE4tBR1HlM_-o0Oa4PL" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T09:41:08.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bCZly4Qea84e0AxO5b_F" version="22.1.1" type="github">
   <diagram name="第 1 页" id="GnDO6N3DueWJBPkfXjhA">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="sUnTjPVfXL3tDDWwX9w4-41" value="通讯加密组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="593" y="301" width="96" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sUnTjPVfXL3tDDWwX9w4-42" value="认证中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="53" y="310" width="96" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
