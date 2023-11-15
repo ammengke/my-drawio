@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T12:14:04.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OWnXGuP3KTph5G56fUyZ" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T02:49:06.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SW5LCS2k4l2eOVvIuz2Z" version="22.1.1" type="github">
   <diagram id="_OPJ3ktuhaSxSOlUuzS6" name="Page-1">
-    <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="19.5" y="42" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-111" value="客服坐席" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="337" y="40" width="76" height="30" as="geometry" />
+          <mxGeometry x="351" y="40" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MZKURabroFCkZTYU_OP6-126" value="常见问题" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-14" y="70" width="61" height="32" as="geometry" />
@@ -280,43 +280,43 @@
         <mxCell id="hjf_TfYqgy22PV2feutB-6" value="自动化测试服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="51" y="296.5" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-1" value="交易日历" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-1" value="交易日历" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="367" y="70" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-3" value="智能回访" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-3" value="智能回访" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="369" y="118.5" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-4" value="服务记录" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-4" value="服务记录" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="369" y="160" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-5" value="客服设置" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-5" value="客服设置" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="452" y="70" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-6" value="CRM集成" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-6" value="CRM集成" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="452" y="118.5" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-7" value="客户属地IP" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-7" value="客户属地IP" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="452" y="160" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-9" value="AI机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-9" value="AI机器人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="295" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-10" value="智能回访" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-10" value="智能回访" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="278" y="294.5" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-11" value="服务统计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-11" value="服务统计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="532" y="70" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-12" value="接入量统计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-12" value="接入量统计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="532" y="118" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-13" value="公私库匹配统计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-13" value="公私库匹配统计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="532" y="160" width="61" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-14" value="短信服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-14" value="短信服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="384" y="294.5" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2P2owlu64sQ_AZG2neIO-15" value="邮件服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2P2owlu64sQ_AZG2neIO-15" value="邮件服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="498" y="294.5" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
