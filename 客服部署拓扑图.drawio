@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:32:02.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kU2HCB4WnhiOdo80abiX" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T10:14:51.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dK9iNIJ_u1U1vu9I30Fm" version="22.1.2" type="github">
   <diagram id="j5msO9XKNBTfVSApXjJV" name="Page-1">
     <mxGraphModel dx="2087" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
         <mxCell id="LKb0-64Mf8W_8RgTpQx8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ADCEFF;" edge="1" parent="1" source="LKb0-64Mf8W_8RgTpQx8-2" target="h-4lxs5_fm6_QuoArNwU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LKb0-64Mf8W_8RgTpQx8-16" value="东方通(TongWeb)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.kinesis_analytics;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="LKb0-64Mf8W_8RgTpQx8-16" value="Nacos" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.kinesis_analytics;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="309" y="354" width="73.5" height="75" as="geometry" />
         </mxCell>
       </root>
