@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T02:27:55.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HD7C6CRH1NDddtpSsEyC" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T02:41:46.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="y6dBUrppiFYhwZ6w-k7i" version="22.1.2" type="github">
   <diagram name="第 1 页" id="k6bWC8IlYyiT_uQ4D0yM">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,22 +116,22 @@
           <mxGeometry x="658" y="483" width="101" height="238" as="geometry" />
         </mxCell>
         <mxCell id="FXBnlz-k-0m6f4a4qK0G-43" value="工程化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="677" y="508" width="60" height="30" as="geometry" />
+          <mxGeometry x="677" y="485" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FXBnlz-k-0m6f4a4qK0G-44" value="GitLab" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4EB1FC;" parent="1" vertex="1">
-          <mxGeometry x="674.5" y="538" width="68" height="29" as="geometry" />
+          <mxGeometry x="674.5" y="520" width="68" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FXBnlz-k-0m6f4a4qK0G-45" value="Maven" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4EB1FC;" parent="1" vertex="1">
-          <mxGeometry x="674.5" y="575" width="68" height="29" as="geometry" />
+          <mxGeometry x="674.5" y="557" width="68" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FXBnlz-k-0m6f4a4qK0G-46" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4EB1FC;" parent="1" vertex="1">
-          <mxGeometry x="673" y="612" width="68" height="29" as="geometry" />
+          <mxGeometry x="673" y="594" width="68" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FXBnlz-k-0m6f4a4qK0G-47" value="Node.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4EB1FC;" parent="1" vertex="1">
-          <mxGeometry x="673" y="649" width="68" height="29" as="geometry" />
+          <mxGeometry x="673" y="631" width="68" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FXBnlz-k-0m6f4a4qK0G-48" value="自动化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4EB1FC;" parent="1" vertex="1">
-          <mxGeometry x="674.5" y="686" width="68" height="29" as="geometry" />
+          <mxGeometry x="674.5" y="668" width="68" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FXBnlz-k-0m6f4a4qK0G-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="138" y="482" width="344" height="166" as="geometry" />
