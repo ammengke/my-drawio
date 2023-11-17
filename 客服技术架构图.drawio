@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T03:37:01.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2m9I-2hGBBgBqKn-u8pP" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T05:51:11.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kcWeX1m_nZQ9GJ_oyJt0" version="22.1.2" type="github">
   <diagram id="NsUplz_uinZOCI7nmMil" name="Page-1">
-    <mxGraphModel dx="1834" dy="1307" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-27" value="监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="16" y="245" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jRPfxaUJ6jdpRpEulSyn-28" value="&lt;h2 style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 16px; padding: 0px; color: rgb(79, 79, 79); line-height: 30px; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;SpringBootAdmin&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#E776E3;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="jRPfxaUJ6jdpRpEulSyn-28" value="&lt;h2 style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 16px; padding: 0px; color: rgb(79, 79, 79); line-height: 30px; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;SpringBootAdmin&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#E776E3;fontFamily=Helvetica;align=center;" parent="1" vertex="1">
           <mxGeometry x="36" y="285" width="123" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRPfxaUJ6jdpRpEulSyn-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#E6E6E6;fontColor=#333333;fontFamily=Helvetica;" parent="1" vertex="1">
@@ -319,14 +319,17 @@
         <mxCell id="eWxzJevqIBFPBqwUupoh-2" value="Spring Cloud Sleuth" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="286" y="424" width="89" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="S4WdbF4x6K7KBR2FqYz_-1" value="NLP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="S4WdbF4x6K7KBR2FqYz_-1" value="NLP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="388" y="424" width="89" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="S4WdbF4x6K7KBR2FqYz_-2" value="MinIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="S4WdbF4x6K7KBR2FqYz_-2" value="MinIO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="534" y="674" width="89" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="S4WdbF4x6K7KBR2FqYz_-3" value="达梦" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="S4WdbF4x6K7KBR2FqYz_-3" value="达梦" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="268" y="674" width="89" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Ffq0rbI4lLDYP7u4PFOB-1" value="&lt;h2 style=&quot;box-sizing: border-box; outline: 0px; margin: 8px 0px 16px; padding: 0px; color: rgb(79, 79, 79); line-height: 30px; overflow-wrap: break-word;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;Sentry&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#E776E3;fontFamily=Helvetica;align=center;" vertex="1" parent="1">
+          <mxGeometry x="36" y="319" width="123" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
