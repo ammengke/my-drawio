@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:14:48.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VSXzNCKwMpY3B-6dBmnj" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:17:57.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tWRvaRCTQTXR5EMATvF2" version="22.1.2" type="github">
   <diagram id="j5msO9XKNBTfVSApXjJV" name="Page-1">
     <mxGraphModel dx="1834" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,43 +28,30 @@
         <mxCell id="h-4lxs5_fm6_QuoArNwU-4" value="电脑端" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
           <mxGeometry x="472" y="-59" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wZkuEuTL__6hPiaOwBk9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="h-4lxs5_fm6_QuoArNwU-5" target="h-4lxs5_fm6_QuoArNwU-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="330" />
-              <mxPoint x="175" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wZkuEuTL__6hPiaOwBk9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h-4lxs5_fm6_QuoArNwU-5" target="wZkuEuTL__6hPiaOwBk9-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="330" />
-              <mxPoint x="518" y="330" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="LKb0-64Mf8W_8RgTpQx8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ADCEFF;" edge="1" parent="1" source="h-4lxs5_fm6_QuoArNwU-5" target="wZkuEuTL__6hPiaOwBk9-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-4lxs5_fm6_QuoArNwU-5" value="防火墙" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
           <mxGeometry x="315" y="220" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wZkuEuTL__6hPiaOwBk9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h-4lxs5_fm6_QuoArNwU-6" target="h-4lxs5_fm6_QuoArNwU-7" edge="1">
+        <mxCell id="wZkuEuTL__6hPiaOwBk9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ADCEFF;" parent="1" target="h-4lxs5_fm6_QuoArNwU-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="175" y="470" />
               <mxPoint x="95" y="470" />
             </Array>
+            <mxPoint x="175" y="429" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZkuEuTL__6hPiaOwBk9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h-4lxs5_fm6_QuoArNwU-6" target="wZkuEuTL__6hPiaOwBk9-4" edge="1">
+        <mxCell id="wZkuEuTL__6hPiaOwBk9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ADCEFF;" parent="1" source="wZkuEuTL__6hPiaOwBk9-3" target="wZkuEuTL__6hPiaOwBk9-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="175" y="387" />
               <mxPoint x="175" y="470" />
               <mxPoint x="253" y="470" />
             </Array>
+            <mxPoint x="175" y="429" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="h-4lxs5_fm6_QuoArNwU-6" value="nginx 负载&lt;br&gt;172.28.48.105" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" parent="1" vertex="1">
-          <mxGeometry x="140" y="359" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="h-4lxs5_fm6_QuoArNwU-7" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;APP应用服务&lt;br&gt;172.28.48.105" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
           <mxGeometry x="70" y="499" width="50" height="48" as="geometry" />
@@ -87,7 +74,7 @@
         <mxCell id="h-4lxs5_fm6_QuoArNwU-16" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;数据库备&lt;br&gt;172.28.48.205" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="501" y="652" width="35" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="wZkuEuTL__6hPiaOwBk9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wZkuEuTL__6hPiaOwBk9-3" target="h-4lxs5_fm6_QuoArNwU-8" edge="1">
+        <mxCell id="wZkuEuTL__6hPiaOwBk9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ADCEFF;" parent="1" source="wZkuEuTL__6hPiaOwBk9-3" target="h-4lxs5_fm6_QuoArNwU-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="518" y="470" />
@@ -95,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZkuEuTL__6hPiaOwBk9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wZkuEuTL__6hPiaOwBk9-3" target="wZkuEuTL__6hPiaOwBk9-5" edge="1">
+        <mxCell id="wZkuEuTL__6hPiaOwBk9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ADCEFF;" parent="1" source="wZkuEuTL__6hPiaOwBk9-3" target="wZkuEuTL__6hPiaOwBk9-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="518" y="470" />
@@ -103,8 +90,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZkuEuTL__6hPiaOwBk9-3" value="nginx 负载&lt;br&gt;172.28.48.205" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" parent="1" vertex="1">
-          <mxGeometry x="483" y="359" width="70" height="70" as="geometry" />
+        <mxCell id="wZkuEuTL__6hPiaOwBk9-3" value="nginx 负载&lt;br&gt;172.28.xx.1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-128.png" parent="1" vertex="1">
+          <mxGeometry x="315" y="352" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wZkuEuTL__6hPiaOwBk9-4" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;管理端服务&lt;br&gt;172.28.48.105" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
           <mxGeometry x="228" y="499" width="50" height="48" as="geometry" />
@@ -161,7 +148,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb0-64Mf8W_8RgTpQx8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LKb0-64Mf8W_8RgTpQx8-2" target="h-4lxs5_fm6_QuoArNwU-5">
+        <mxCell id="LKb0-64Mf8W_8RgTpQx8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ADCEFF;" edge="1" parent="1" source="LKb0-64Mf8W_8RgTpQx8-2" target="h-4lxs5_fm6_QuoArNwU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
