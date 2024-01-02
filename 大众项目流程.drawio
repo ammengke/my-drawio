@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T09:57:41.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZO75YBAbxbiLxk01WBIe" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T09:59:36.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wxrnweYrgN0h9FQnajMc" version="22.1.16" type="github">
   <diagram name="第 1 页" id="R6Fzk4r61LLISqoDeTsF">
     <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="W2v2ygiOB0Vm-Sb3fco6-16" value="客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="158" width="79" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-19" value="&lt;h1&gt;事项&lt;/h1&gt;&lt;p&gt;1.会议纪要与张工汇总确认终稿&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;2.开发计划+问题清单区内发给客户确认&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-19" value="&lt;h1&gt;事项&lt;/h1&gt;&lt;p&gt;1.产品预留充分的验收时间，最好能约张工做第一轮验收，按照各自的验收清单一项项过&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="401" y="455" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
