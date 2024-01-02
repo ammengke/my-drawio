@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T09:28:31.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="93eeiueWvcpaYeTZmNN9" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T09:48:19.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OyWyt0mSe8P6gPQu9hkV" version="22.1.16" type="github">
   <diagram name="第 1 页" id="R6Fzk4r61LLISqoDeTsF">
     <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -16,10 +16,18 @@
         <mxCell id="W2v2ygiOB0Vm-Sb3fco6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-3" target="W2v2ygiOB0Vm-Sb3fco6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-3" target="W2v2ygiOB0Vm-Sb3fco6-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="108" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="W2v2ygiOB0Vm-Sb3fco6-3" value="客户&amp;amp;产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="48" y="327" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W2v2ygiOB0Vm-Sb3fco6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-5" target="W2v2ygiOB0Vm-Sb3fco6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-5" target="W2v2ygiOB0Vm-Sb3fco6-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W2v2ygiOB0Vm-Sb3fco6-5" value="产品&amp;amp;开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -30,6 +38,15 @@
         </mxCell>
         <mxCell id="W2v2ygiOB0Vm-Sb3fco6-6" value="产品&amp;amp;客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="436" y="327" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-12" value="&lt;h1&gt;事项&lt;/h1&gt;&lt;p&gt;1.会议纪要与张工汇总确认终稿&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;2.开发计划+问题清单区内发给客户确认&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13" y="453" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-13" target="W2v2ygiOB0Vm-Sb3fco6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-13" value="&lt;h1&gt;事项&lt;/h1&gt;&lt;div&gt;1.会上开发提出的疑问及交互逻辑变更需及时与张工沟通确认，并将确认结果第一时间告知开发&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="128" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
