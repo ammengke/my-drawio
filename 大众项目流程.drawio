@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T09:15:54.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rEU2w6qkT_ZimbhozH2v" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T09:23:25.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kqAsUi6FZj-rXLLX-VP2" version="22.1.16" type="github">
   <diagram name="第 1 页" id="R6Fzk4r61LLISqoDeTsF">
-    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-1" target="W2v2ygiOB0Vm-Sb3fco6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-51" y="334" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="641" y="334" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-3" target="W2v2ygiOB0Vm-Sb3fco6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-3" value="客户&amp;amp;产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="327" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-5" target="W2v2ygiOB0Vm-Sb3fco6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-5" value="产品&amp;amp;开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="327" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2v2ygiOB0Vm-Sb3fco6-6" target="W2v2ygiOB0Vm-Sb3fco6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2v2ygiOB0Vm-Sb3fco6-6" value="产品&amp;amp;客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="327" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
