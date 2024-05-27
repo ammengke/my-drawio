@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T07:27:20.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cFzHDHUbfe0FAYQ7I-qT" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T07:31:26.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JsdhdNNhWU3PPbLV2Dnk" version="24.4.8" type="github">
   <diagram name="第 1 页" id="JNZC5h8VHtBQVAPpE-Nd">
     <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,8 +81,20 @@
         <mxCell id="4A_WY00AXrzQRWVBLWzA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-357" y="192" width="131" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="4A_WY00AXrzQRWVBLWzA-4" value="中央国安委" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-4" value="中央国安委" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-326.5" y="437" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-6" value="各委办局&lt;div&gt;数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-326.5" y="339" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-7" value="上海&lt;div&gt;大数据中心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-323" y="241" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-8" value="公安&lt;div&gt;数据中心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-326.5" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-9" value="城运&lt;div&gt;数据中心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-326.5" y="623" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
