@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T08:01:51.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="U4u6dzMWf3GRQumfWyI_" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T08:04:18.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CNW_9nEeWsji5TAIa9No" version="24.4.8" type="github">
   <diagram name="第 1 页" id="JNZC5h8VHtBQVAPpE-Nd">
     <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,6 +142,42 @@
         </mxCell>
         <mxCell id="4A_WY00AXrzQRWVBLWzA-22" value="员工2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-13" y="1654" width="83" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="1741" width="193" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-29" value="角色1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="1753" width="83" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-30" value="角色2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="1753" width="83" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4A_WY00AXrzQRWVBLWzA-21" target="4A_WY00AXrzQRWVBLWzA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-33" value="绑定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4A_WY00AXrzQRWVBLWzA-31">
+          <mxGeometry x="-0.0448" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4A_WY00AXrzQRWVBLWzA-22" target="4A_WY00AXrzQRWVBLWzA-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-34" value="绑定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4A_WY00AXrzQRWVBLWzA-32">
+          <mxGeometry x="-0.0746" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4A_WY00AXrzQRWVBLWzA-35" target="4A_WY00AXrzQRWVBLWzA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-37" value="授权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4A_WY00AXrzQRWVBLWzA-36">
+          <mxGeometry x="0.1481" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-35" value="角色：功能1、功能2、功能3、功能4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-122" y="1851" width="205" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
