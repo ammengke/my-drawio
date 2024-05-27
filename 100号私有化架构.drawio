@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T07:16:53.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0g65fSVxFkWoAd7D0uSu" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T07:24:55.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="f7hgk9zQXzfdbBodsgZ-" version="24.4.8" type="github">
   <diagram name="第 1 页" id="JNZC5h8VHtBQVAPpE-Nd">
     <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="110" y="192" width="659" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KjKv_2cIi3V1vBaqBkSm-3" value="资源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="466" y="266" width="303" height="201" as="geometry" />
+          <mxGeometry x="317" y="266" width="452" height="201" as="geometry" />
         </mxCell>
         <mxCell id="KjKv_2cIi3V1vBaqBkSm-4" value="组织架构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="266" width="303" height="201" as="geometry" />
+          <mxGeometry x="110" y="266" width="184" height="201" as="geometry" />
         </mxCell>
         <mxCell id="KjKv_2cIi3V1vBaqBkSm-5" value="数据交换平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-241" y="281" width="106" height="106" as="geometry" />
+          <mxGeometry x="-162" y="297" width="106" height="106" as="geometry" />
         </mxCell>
         <mxCell id="KjKv_2cIi3V1vBaqBkSm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjKv_2cIi3V1vBaqBkSm-6" target="KjKv_2cIi3V1vBaqBkSm-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
