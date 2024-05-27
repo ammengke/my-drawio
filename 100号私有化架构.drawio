@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T04:14:19.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fQ_bhr7JG_NRNRrB7lN8" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T04:20:31.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sfpbdh2iEcRjvhLgoZ8V" version="24.4.4" type="github">
   <diagram name="第 1 页" id="JNZC5h8VHtBQVAPpE-Nd">
-    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KjKv_2cIi3V1vBaqBkSm-2" value="云办公平台（应用层）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="110" y="192" width="659" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="KjKv_2cIi3V1vBaqBkSm-3" value="资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="266" width="303" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="KjKv_2cIi3V1vBaqBkSm-4" value="组织架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="266" width="303" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="KjKv_2cIi3V1vBaqBkSm-5" value="数据交换平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-319" y="277" width="106" height="106" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
