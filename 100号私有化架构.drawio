@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T07:56:05.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sC8Z8v1FQhDwFnXWgqQd" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T08:01:51.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="U4u6dzMWf3GRQumfWyI_" version="24.4.8" type="github">
   <diagram name="第 1 页" id="JNZC5h8VHtBQVAPpE-Nd">
     <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="111" y="1552" width="330" height="61" as="geometry" />
+        </mxCell>
         <mxCell id="KjKv_2cIi3V1vBaqBkSm-2" value="云办公平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="136" y="159" width="659" height="72" as="geometry" />
         </mxCell>
@@ -108,8 +111,37 @@
         <mxCell id="4A_WY00AXrzQRWVBLWzA-14" value="基&lt;div&gt;建&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="828" y="596" width="39" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="4A_WY00AXrzQRWVBLWzA-15" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4A_WY00AXrzQRWVBLWzA-15" target="4A_WY00AXrzQRWVBLWzA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-25" value="拥有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4A_WY00AXrzQRWVBLWzA-24">
+          <mxGeometry x="0.1401" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-15" value="用户（区县）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="264" y="1371" width="23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4A_WY00AXrzQRWVBLWzA-16" target="4A_WY00AXrzQRWVBLWzA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-16" value="一级组织架构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="219.75" y="1483" width="111.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-18" value="二级组织架构1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1564" width="111.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-19" value="二级组织架构n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="306" y="1564" width="111.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="1642" width="193" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-21" value="员工1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="1654" width="83" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4A_WY00AXrzQRWVBLWzA-22" value="员工2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="1654" width="83" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
