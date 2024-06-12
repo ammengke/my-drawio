@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T11:29:16.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IDSxBThgilXkwaoKrsf8" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T11:31:44.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CSFUgOWaarN5gBO_7tIu" version="24.5.3" type="github">
   <diagram id="FIQT3pwKjuodvygs0_mC" name="第 1 页">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,35 +19,32 @@
         <mxCell id="L5L_JWcabAk_taaHSs-1-5" value="全文检索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="182" y="300" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-6" value="产品管理&lt;br&gt;cbs-product" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-6" value="数据更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="182" y="364" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-7" value="用户组织架构&lt;br&gt;cbs-organization-user" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-7" value="智能高亮" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="347" y="300" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-8" value="客户信息管理&lt;br&gt;cbs-system-manage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-8" value="智能标签" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="512" y="300" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-9" value="订单服务&lt;br&gt;cbs-orders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-9" value="数据删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="346" y="364" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-10" value="基金赎回&lt;br&gt;cbs-fund-redeem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-10" value="用户鉴权" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="512" y="364" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-11" value="增值服务&lt;br&gt;cbs-vip-service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-11" value="热门搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="183" y="430" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-12" value="报表统计服务&lt;br&gt;cbs-report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-12" value="相关文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="347" y="430" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-13" value="保险业务&lt;br&gt;cbs-insurance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-13" value="数据权限校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="513" y="430" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-14" value="系统公告&lt;br&gt;cbs-notice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-14" value="机构配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="183" y="497" width="136" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-15" value="对外服务&lt;br&gt;cbs-open-api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="347" y="497" width="136" height="43" as="geometry" />
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-23" value="应用层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="38" y="407" width="60" height="30" as="geometry" />
@@ -117,6 +114,12 @@
         </mxCell>
         <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-16" value="kkFileView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="567.5" y="669.75" width="90.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-17" value="自动化摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="346" y="497" width="136" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-18" value="匹配策略配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="512" y="497" width="136" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
