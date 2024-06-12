@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T11:48:44.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OVoCm-VKbrjZTCMZV9cw" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T11:50:44.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PBzMn0q9tGL_RY2QdqAT" version="24.5.3" type="github">
   <diagram id="FIQT3pwKjuodvygs0_mC" name="第 1 页">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-29" value="数据删除" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="567" y="562" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="114" y="648" width="604" height="105" as="geometry" />
         </mxCell>
         <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-45" value="服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -138,6 +138,24 @@
         </mxCell>
         <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="648" width="20" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-53" value="智能检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="128" y="679.5" width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-54" value="智能高亮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="679" width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-55" value="用户鉴权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="679" width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-56" value="OCR识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426.75" y="679" width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-57" value="数据权限校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="679" width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-58" value="数据来源分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="679" width="83" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
