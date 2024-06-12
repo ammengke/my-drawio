@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T11:15:40.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aSnNqvSCgnb9Vf02_Trn" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T11:15:56.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gn4qkH1NIMFK_o_ht3yr" version="24.5.3" type="github">
   <diagram id="FIQT3pwKjuodvygs0_mC" name="第 1 页">
     <mxGraphModel dx="1434" dy="1915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="L5L_JWcabAk_taaHSs-1-38" value="备机&lt;br&gt;Spring Cloud Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="485" y="169.5" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-40" value="阿里 SLB 负载均衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-40" value="负载均衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="349" y="65" width="136" height="43" as="geometry" />
         </mxCell>
       </root>
