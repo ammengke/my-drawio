@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T11:16:45.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="99XKbL5FLFkmV7ZpatF3" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T11:25:34.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="56WmpO7cEre-jBkaXcFX" version="24.5.3" type="github">
   <diagram id="FIQT3pwKjuodvygs0_mC" name="第 1 页">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="L5L_JWcabAk_taaHSs-1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="115" y="278" width="602" height="288" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-5" value="系统管理&lt;br&gt;cbs-system-manage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-5" value="全文检索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="182" y="300" width="136" height="43" as="geometry" />
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-6" value="产品管理&lt;br&gt;cbs-product" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -49,28 +49,31 @@
         <mxCell id="L5L_JWcabAk_taaHSs-1-15" value="对外服务&lt;br&gt;cbs-open-api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="347" y="497" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-23" value="应用层&lt;br&gt;(&lt;font color=&quot;#ff270f&quot;&gt;主备同步&lt;/font&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-23" value="应用层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="38" y="407" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="278" width="20" height="288" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="114" y="597" width="604" height="77" as="geometry" />
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L5L_JWcabAk_taaHSs-1-25" target="6_hMgDD0ghvQ9nfx3Wfn-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-26" value="RDS Mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="114" y="597" width="604" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="L5L_JWcabAk_taaHSs-1-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="178" y="601.5" width="47" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-27" value="阿里云Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-27" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="385" y="601.5" width="47" height="68" as="geometry" />
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-30" value="存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="45" y="619.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="45" y="634.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="597" width="20" height="75" as="geometry" />
+          <mxGeometry x="90" y="597" width="20" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-32" value="阿里云OSS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-32" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="592" y="601.5" width="47" height="68" as="geometry" />
         </mxCell>
         <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L5L_JWcabAk_taaHSs-1-33" target="L5L_JWcabAk_taaHSs-1-2">
@@ -87,6 +90,24 @@
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-40" value="负载均衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="349" y="193" width="136" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-2" value="ElasticSearch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="156.25" y="672" width="90.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-3" value="Redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363.25" y="669.5" width="90.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-4" value="Redis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570.25" y="672" width="90.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="114" y="734" width="604" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-8" value="基础层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="771.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6_hMgDD0ghvQ9nfx3Wfn-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="734" width="20" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
