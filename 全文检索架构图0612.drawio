@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T11:38:44.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tfUt1ybe8VxrWBlfGx3U" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T11:39:02.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TfEJOF6Kp2bXnd131Y4F" version="24.5.3" type="github">
   <diagram id="FIQT3pwKjuodvygs0_mC" name="第 1 页">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="L5L_JWcabAk_taaHSs-1-11" value="热门搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="126" y="430" width="136" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="L5L_JWcabAk_taaHSs-1-12" value="相关文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="L5L_JWcabAk_taaHSs-1-12" value="相关文档智能推荐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="272" y="430" width="136" height="43" as="geometry" />
         </mxCell>
         <mxCell id="L5L_JWcabAk_taaHSs-1-13" value="数据权限校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
