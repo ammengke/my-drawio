@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T07:54:22.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GwchSwhsDhBCt1ihwty_" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T10:26:06.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="beUUUki2RFqTGa6a5w41" version="24.5.3" type="github">
   <diagram name="第 1 页" id="DM-KIrJjknosANJa-6J8">
     <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#EDEDED" math="0" shadow="0">
       <root>
@@ -60,6 +60,15 @@
         </mxCell>
         <mxCell id="yu92lfb1kVJGWA3T8rP4-26" value="&lt;h1 style=&quot;box-sizing: border-box; margin-right: 0px; margin-bottom: var(--base-size-16); margin-left: 0px; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted)); color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; margin-top: 0px !important;&quot; dir=&quot;auto&quot; class=&quot;heading-element&quot; tabindex=&quot;-1&quot;&gt;通义千问&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="443" width="165" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="yu92lfb1kVJGWA3T8rP4-27" value="基础大模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="561.5" y="307" width="56" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="yu92lfb1kVJGWA3T8rP4-29" value="Prompt工程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="652" y="307" width="56" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="yu92lfb1kVJGWA3T8rP4-30" value="模型训练" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="753.5" y="307" width="56" height="218" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
