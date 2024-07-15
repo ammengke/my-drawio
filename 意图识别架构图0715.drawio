@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T10:39:32.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0m4bXIvHY6SP1cYlEwh4" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T10:40:30.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HSpg2levtvmm22F4BuqU" version="24.5.3" type="github">
   <diagram name="第 1 页" id="DM-KIrJjknosANJa-6J8">
-    <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#EDEDED" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#F5F5F5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yu92lfb1kVJGWA3T8rP4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yu92lfb1kVJGWA3T8rP4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-82" y="176" width="904" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yu92lfb1kVJGWA3T8rP4-7" value="行业应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
