@@ -50,6 +50,9 @@
         <mxCell id="ZR1nw9gsdPyeDd0E2ywS-6" value="调用大模型基于现有知识库语料总结答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="496" y="516" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;前置条件&lt;/h1&gt;&lt;p&gt;1.导入公有库数据到云平台&lt;/p&gt;&lt;p&gt;2.导入私有库数据到云平台&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
