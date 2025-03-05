@@ -7,13 +7,13 @@
         <mxCell id="b-2AFh711nrEzl6UhknF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-2AFh711nrEzl6UhknF-1" target="b-2AFh711nrEzl6UhknF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-1" value="客户提问" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-1" value="客户提问" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b-2AFh711nrEzl6UhknF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-2AFh711nrEzl6UhknF-2" target="b-2AFh711nrEzl6UhknF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-2" value="AI检索，返回意图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-2" value="AI检索，返回意图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b-2AFh711nrEzl6UhknF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-2AFh711nrEzl6UhknF-4" target="b-2AFh711nrEzl6UhknF-7">
@@ -34,7 +34,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-4" value="是否开启智能问答" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-4" value="是否开启智能问答" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b-2AFh711nrEzl6UhknF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-2AFh711nrEzl6UhknF-7" target="b-2AFh711nrEzl6UhknF-10">
@@ -53,13 +53,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-7" value="关键词匹配私有库问题" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-7" value="关键词匹配私有库问题" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="131" y="521" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-10" value="返回兜底答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-10" value="返回兜底答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="31" y="731" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-12" value="返回私有答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-12" value="返回私有答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="251" y="731" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b-2AFh711nrEzl6UhknF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b-2AFh711nrEzl6UhknF-18" target="b-2AFh711nrEzl6UhknF-24">
@@ -88,13 +88,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-18" value="检索公有库是否标记&lt;div&gt;个性化答案&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-18" value="检索公有库是否标记&lt;div&gt;个性化答案&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="669" y="522" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-24" value="返回公有库答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-24" value="返回公有库答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="520" y="731" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-27" value="返回个性化答案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b-2AFh711nrEzl6UhknF-27" value="返回个性化答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="824" y="731" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
