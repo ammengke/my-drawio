@@ -1,9 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="TiLxs6NhTB3eNvwkH9vR">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-1" target="ZR1nw9gsdPyeDd0E2ywS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-1" value="客户提问" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-2" target="ZR1nw9gsdPyeDd0E2ywS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-2" target="ZR1nw9gsdPyeDd0E2ywS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-2" value="阿里百炼-知识库检索&lt;br&gt;（Deepseek）" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="335" y="258" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-3" target="ZR1nw9gsdPyeDd0E2ywS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-3" value="返回意图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="200" y="472" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-4" target="ZR1nw9gsdPyeDd0E2ywS-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="732" />
+              <mxPoint x="414" y="732" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-4" value="业务系统匹配意图对应的答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="200" y="622" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-5" value="返回答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="354" y="782" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-6" target="ZR1nw9gsdPyeDd0E2ywS-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="549" y="732" />
+              <mxPoint x="414" y="732" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-6" value="调用大模型基于现有知识库语料总结答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="496" y="516" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
