@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-26" value="未标记" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b-2AFh711nrEzl6UhknF-25">
+        <mxCell id="b-2AFh711nrEzl6UhknF-26" value="未标记" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="b-2AFh711nrEzl6UhknF-25">
           <mxGeometry x="-0.0144" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-2AFh711nrEzl6UhknF-30" value="标记" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b-2AFh711nrEzl6UhknF-29">
+        <mxCell id="b-2AFh711nrEzl6UhknF-30" value="标记" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="b-2AFh711nrEzl6UhknF-29">
           <mxGeometry x="-0.0841" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
