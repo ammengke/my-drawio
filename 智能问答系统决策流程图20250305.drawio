@@ -7,9 +7,9 @@
         <mxCell id="ZR1nw9gsdPyeDd0E2ywS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-1" target="ZR1nw9gsdPyeDd0E2ywS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-15" value="传入每家" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZR1nw9gsdPyeDd0E2ywS-8">
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-15" value="传入知识库标识" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="ZR1nw9gsdPyeDd0E2ywS-8">
           <mxGeometry x="-0.4237" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZR1nw9gsdPyeDd0E2ywS-1" value="客户提问" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -17,6 +17,11 @@
         </mxCell>
         <mxCell id="ZR1nw9gsdPyeDd0E2ywS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-2" target="ZR1nw9gsdPyeDd0E2ywS-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-18" value="命中公有库、私有库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="ZR1nw9gsdPyeDd0E2ywS-9">
+          <mxGeometry x="0.028" y="15" relative="1" as="geometry">
+            <mxPoint x="-15" y="22" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZR1nw9gsdPyeDd0E2ywS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ZR1nw9gsdPyeDd0E2ywS-2" target="ZR1nw9gsdPyeDd0E2ywS-6">
           <mxGeometry relative="1" as="geometry" />
@@ -55,8 +60,11 @@
         <mxCell id="ZR1nw9gsdPyeDd0E2ywS-6" value="调用大模型基于现有知识库语料总结答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="496" y="516" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;前置条件&lt;/h1&gt;&lt;p&gt;1.导入公有库数据到云平台&lt;/p&gt;&lt;p&gt;2.导入私有库数据到云平台&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="70" y="230" width="180" height="120" as="geometry" />
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;前置条件&lt;/h1&gt;&lt;p&gt;1.导入公有库数据到云平台&lt;/p&gt;&lt;p&gt;2.导入私有库数据到云平台&lt;/p&gt;&lt;p&gt;上传知识库后会生成唯一标识，使用唯一标识来做指定知识库检索&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR1nw9gsdPyeDd0E2ywS-19" value="命中其他知识资料" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
