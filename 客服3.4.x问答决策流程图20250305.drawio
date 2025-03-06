@@ -94,14 +94,23 @@
         <mxCell id="b-2AFh711nrEzl6UhknF-18" value="检索公有库是否标记&lt;div&gt;个性化答案&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="669" y="522" width="140" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="aqOWfmlVKU3bNg1COLJg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;" edge="1" parent="1" source="b-2AFh711nrEzl6UhknF-24" target="aqOWfmlVKU3bNg1COLJg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b-2AFh711nrEzl6UhknF-24" value="返回公有库答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="520" y="731" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqOWfmlVKU3bNg1COLJg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;dashed=1;" edge="1" parent="1" source="b-2AFh711nrEzl6UhknF-27" target="aqOWfmlVKU3bNg1COLJg-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b-2AFh711nrEzl6UhknF-27" value="返回个性化答案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="824" y="731" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aqOWfmlVKU3bNg1COLJg-1" value="查询已配置的&lt;div&gt;跳转按钮&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqOWfmlVKU3bNg1COLJg-5" value="查询已配置的&lt;div&gt;跳转按钮&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="672" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
