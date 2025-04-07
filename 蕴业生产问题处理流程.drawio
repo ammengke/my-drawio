@@ -314,6 +314,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="H7bm1yqmAMIOl7F61OUZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-120" target="H7bm1yqmAMIOl7F61OUZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="907" y="1370" />
+              <mxPoint x="1148" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-120" value="bug处置流程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="847.5" y="1305.5" width="119" height="30" as="geometry" />
         </mxCell>
@@ -325,6 +333,24 @@
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-135" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="859" y="1707.5" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H7bm1yqmAMIOl7F61OUZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H7bm1yqmAMIOl7F61OUZ-1" target="H7bm1yqmAMIOl7F61OUZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H7bm1yqmAMIOl7F61OUZ-1" value="P2~P3需排期处理的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1426" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H7bm1yqmAMIOl7F61OUZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7bm1yqmAMIOl7F61OUZ-3" target="PGWOsnz61t-WM54Ito1W-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1148" y="1730" />
+              <mxPoint x="1027" y="1730" />
+              <mxPoint x="1027" y="1728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7bm1yqmAMIOl7F61OUZ-3" value="项目经理跟踪直至上线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1520" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
