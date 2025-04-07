@@ -13,6 +13,9 @@
         <mxCell id="PGWOsnz61t-WM54Ito1W-3" value="新需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-4" target="PGWOsnz61t-WM54Ito1W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-4" value="系统问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -20,15 +23,18 @@
           <mxGeometry x="600" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-6" value="客户需求确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-7" value="开发评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-8" target="PGWOsnz61t-WM54Ito1W-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-8" value="是否为bug" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PGWOsnz61t-WM54Ito1W-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-9" target="PGWOsnz61t-WM54Ito1W-12">
+        <mxCell id="PGWOsnz61t-WM54Ito1W-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-9" target="PGWOsnz61t-WM54Ito1W-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-9" value="开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -59,13 +65,136 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-12" value="是否需要升级" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="350" width="60" height="60" as="geometry" />
+          <mxGeometry x="795" y="500" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-13" value="产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="311" width="100" height="40" as="geometry" />
+          <mxGeometry x="1000" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-14" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="411" width="100" height="40" as="geometry" />
+          <mxGeometry x="1000" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-23" target="PGWOsnz61t-WM54Ito1W-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-23" value="客户反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-24" target="PGWOsnz61t-WM54Ito1W-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="PGWOsnz61t-WM54Ito1W-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="581" y="770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-24" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-28" target="PGWOsnz61t-WM54Ito1W-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-28" value="新需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="840" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-30" value="生产bug" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="840" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-32" target="PGWOsnz61t-WM54Ito1W-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-36" value="1.确认需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PGWOsnz61t-WM54Ito1W-35">
+          <mxGeometry x="0.2468" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-32" target="PGWOsnz61t-WM54Ito1W-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-38" value="2.开发确认可行性并估时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PGWOsnz61t-WM54Ito1W-37">
+          <mxGeometry x="-0.0588" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-32" target="PGWOsnz61t-WM54Ito1W-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-40" value="3.告知客户版本预估升级时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PGWOsnz61t-WM54Ito1W-39">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-32" value="产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="950" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-33" value="客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1050" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-34" value="开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1050" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-42" value="评估严重级别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="940" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-43" value="评估严重级别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="1040" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;事故级别划分&lt;/h1&gt;&lt;p&gt;1.P0(严重级别)：系统崩溃&lt;/p&gt;&lt;p&gt;2.P1(高级)：核心功能无法使用、阻塞流程&lt;/p&gt;&lt;p&gt;3.P2(中级)：部分功能报错，如查询、导出、导入等异常&lt;/p&gt;&lt;p&gt;4.P4(轻微)：非核心数据展示错误、页面兼容性&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#ea1010, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1050" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-45" target="PGWOsnz61t-WM54Ito1W-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-45" target="PGWOsnz61t-WM54Ito1W-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-45" target="PGWOsnz61t-WM54Ito1W-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-45" target="PGWOsnz61t-WM54Ito1W-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-45" value="事故级别划分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="700" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-46" target="PGWOsnz61t-WM54Ito1W-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-46" value="P0-严重" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="790" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-47" target="PGWOsnz61t-WM54Ito1W-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-47" value="P1-高级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="790" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-48" target="PGWOsnz61t-WM54Ito1W-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-48" value="P2-中级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="790" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-49" target="PGWOsnz61t-WM54Ito1W-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-49" value="P3-轻微" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="790" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-54" value="系统崩溃" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="910" y="860" width="40" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-56" value="核心功能无法使用、阻塞流程" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="860" width="40" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-58" value="部分功能报错，如查询、导出、导入等" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="860" width="40" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-60" value="非核心数据展示错误、页面兼容等" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="860" width="40" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
