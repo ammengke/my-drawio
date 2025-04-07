@@ -316,6 +316,13 @@
         <mxCell id="PGWOsnz61t-WM54Ito1W-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-102" target="PGWOsnz61t-WM54Ito1W-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;shape=link;strokeColor=#E7451C;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-102" target="PGWOsnz61t-WM54Ito1W-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="1728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-102" value="1.确认应急处置方案&lt;div&gt;2.再次评估影响范围&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1295" width="140" height="51" as="geometry" />
         </mxCell>
@@ -384,7 +391,7 @@
           <mxGeometry x="859" y="1621" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-135" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="859" y="1714.5" width="95" height="40" as="geometry" />
+          <mxGeometry x="859" y="1707.5" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
