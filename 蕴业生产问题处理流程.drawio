@@ -79,8 +79,10 @@
         <mxCell id="PGWOsnz61t-WM54Ito1W-23" value="客户反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="490" y="650" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PGWOsnz61t-WM54Ito1W-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-24" target="PGWOsnz61t-WM54Ito1W-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PGWOsnz61t-WM54Ito1W-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-24" target="PGWOsnz61t-WM54Ito1W-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="381" y="770" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="PGWOsnz61t-WM54Ito1W-30">
           <mxGeometry relative="1" as="geometry">
@@ -94,7 +96,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-28" value="新需求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="279" y="840" width="90" height="40" as="geometry" />
+          <mxGeometry x="170" y="840" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-30" target="PGWOsnz61t-WM54Ito1W-42">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +123,7 @@
         <mxCell id="PGWOsnz61t-WM54Ito1W-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-32" target="PGWOsnz61t-WM54Ito1W-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="1070" />
+              <mxPoint x="211" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,13 +133,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-32" value="产品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="279" y="950" width="90" height="40" as="geometry" />
+          <mxGeometry x="170" y="950" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-33" value="客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1050" width="90" height="40" as="geometry" />
+          <mxGeometry x="51" y="1050" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-34" value="开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1050" width="90" height="40" as="geometry" />
+          <mxGeometry x="271" y="1050" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-42" target="PGWOsnz61t-WM54Ito1W-66">
           <mxGeometry relative="1" as="geometry" />
