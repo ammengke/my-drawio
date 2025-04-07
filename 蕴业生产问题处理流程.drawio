@@ -216,8 +216,40 @@
         <mxCell id="PGWOsnz61t-WM54Ito1W-60" value="非核心数据展示错误、页面兼容等" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1502" y="860" width="40" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="PGWOsnz61t-WM54Ito1W-66" value="评估影响范围并划定事故级别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="716" y="1040" width="90" height="40" as="geometry" />
+        <mxCell id="PGWOsnz61t-WM54Ito1W-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-66" target="PGWOsnz61t-WM54Ito1W-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="1100" />
+              <mxPoint x="819" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-66" target="PGWOsnz61t-WM54Ito1W-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="1100" />
+              <mxPoint x="649" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-66" target="PGWOsnz61t-WM54Ito1W-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="1100" />
+              <mxPoint x="1000" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-66" target="PGWOsnz61t-WM54Ito1W-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="1100" />
+              <mxPoint x="472" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-66" value="1.评估影响范围并划定事故级别&lt;div&gt;2.上报管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="656" y="1040" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-67" value="制定应急处置&lt;div&gt;方案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1142" y="1169" width="90" height="40" as="geometry" />
@@ -255,17 +287,116 @@
         <mxCell id="PGWOsnz61t-WM54Ito1W-81" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1245" y="1569" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-91" target="PGWOsnz61t-WM54Ito1W-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="472" y="1180" />
+              <mxPoint x="560" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-91" value="P0-严重" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1110" width="100" height="30" as="geometry" />
+          <mxGeometry x="422" y="1129" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-92" target="PGWOsnz61t-WM54Ito1W-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="1180" />
+              <mxPoint x="560" y="1180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-92" value="P1-高级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1110" width="100" height="30" as="geometry" />
+          <mxGeometry x="599" y="1129" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-93" target="PGWOsnz61t-WM54Ito1W-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="1230" />
+              <mxPoint x="761" y="1230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-93" value="P2-中级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1110" width="100" height="30" as="geometry" />
+          <mxGeometry x="770" y="1129" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PGWOsnz61t-WM54Ito1W-94" value="P2-中级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="916" y="1110" width="100" height="30" as="geometry" />
+        <mxCell id="PGWOsnz61t-WM54Ito1W-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-99" target="PGWOsnz61t-WM54Ito1W-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-99" value="管理介入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1215" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-101" target="PGWOsnz61t-WM54Ito1W-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="1230" />
+              <mxPoint x="761" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-101" value="P3-轻微" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-102" target="PGWOsnz61t-WM54Ito1W-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-102" value="1.确认应急处置方案&lt;div&gt;2.再次评估影响范围&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1295" width="140" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-104" target="PGWOsnz61t-WM54Ito1W-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="644" y="1489" />
+              <mxPoint x="760" y="1489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-104" value="开发按方案处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="1425" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760.5" y="1529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-106" value="测试回归验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="713" y="1425" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-107" target="PGWOsnz61t-WM54Ito1W-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="872" y="1489" />
+              <mxPoint x="761" y="1489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-107" value="产品做好客户通知及情绪安抚" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="824" y="1425" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-115" value="紧急上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="713.5" y="1529" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-120" target="PGWOsnz61t-WM54Ito1W-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="1370" />
+              <mxPoint x="644" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-120" target="PGWOsnz61t-WM54Ito1W-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-120" target="PGWOsnz61t-WM54Ito1W-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="1370" />
+              <mxPoint x="871" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-120" value="bug处置流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="701.5" y="1305.5" width="119" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
