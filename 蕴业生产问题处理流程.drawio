@@ -20,6 +20,9 @@
             <mxPoint x="581" y="770" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H7bm1yqmAMIOl7F61OUZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-24" target="H7bm1yqmAMIOl7F61OUZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PGWOsnz61t-WM54Ito1W-24" value="测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="490" y="750" width="90" height="40" as="geometry" />
         </mxCell>
@@ -351,6 +354,9 @@
         </mxCell>
         <mxCell id="H7bm1yqmAMIOl7F61OUZ-3" value="项目经理跟踪直至上线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1520" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H7bm1yqmAMIOl7F61OUZ-6" value="测试当天下班前汇总客户反馈的问题，&lt;div&gt;记录解决状态，如果测试不方便，则有产品来发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="395" y="850" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
