@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="第 1 页" id="maj_CZCE4fiGwP-5VllY">
-    <mxGraphModel>
+    <mxGraphModel dx="1428" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PGWOsnz61t-WM54Ito1W-1" value="客户反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-2" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-3" value="新需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-4" value="系统问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-5" value="产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-6" value="客户需求确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-7" value="开发评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-8" value="是否为bug" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-9" target="PGWOsnz61t-WM54Ito1W-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-9" value="开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-8" target="PGWOsnz61t-WM54Ito1W-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="450" />
+              <mxPoint x="93" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-11" value="否，测试反馈客户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PGWOsnz61t-WM54Ito1W-10">
+          <mxGeometry x="-0.0776" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-12" target="PGWOsnz61t-WM54Ito1W-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PGWOsnz61t-WM54Ito1W-12" target="PGWOsnz61t-WM54Ito1W-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-17" value="开发通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PGWOsnz61t-WM54Ito1W-16">
+          <mxGeometry x="-0.8356" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-12" value="是否需要升级" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-13" value="产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="311" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PGWOsnz61t-WM54Ito1W-14" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="411" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
